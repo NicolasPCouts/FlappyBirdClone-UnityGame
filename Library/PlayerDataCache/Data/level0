@@ -1,0 +1,5162 @@
+=true
+Frames=true
+IFrames=true
+Tables=true
+Cookies=true
+BackgroundSounds=true
+JavaApplets=true
+JavaScript=true
+CssVersion=2
+supportsCSS=true
+
+[Mozilla/* (compatible; MSIE*; Linux*) Opera 10.0*]
+Parent=Opera 10.0
+Platform=Linux
+
+[Mozilla/* (compatible; MSIE*; Mac_PowerPC Mac OS X;*) Opera 10.0*]
+Parent=Opera 10.0
+Platform=MacOSX
+
+[Mozilla/* (compatible; MSIE*; Mac_PowerPC) Opera 10.0*]
+Parent=Opera 10.0
+Platform=MacPPC
+
+[Mozilla/* (compatible; MSIE*; Windows 2000*) Opera 10.0*]
+Parent=Opera 10.0
+Platform=Win2000
+Win32=true
+
+[Mozilla/* (compatible; MSIE*; Windows 95*) Opera 10.0*]
+Parent=Opera 10.0
+Platform=Win95
+Win32=true
+
+[Mozilla/* (compatible; MSIE*; Windows 98*) Opera 10.0*]
+Parent=Opera 10.0
+Platform=Win98
+Win32=true
+
+[Mozilla/* (compatible; MSIE*; Windows CE*) Opera 10.0*]
+Parent=Opera 10.0
+Platform=WinCE
+Win32=true
+
+[Mozilla/* (compatible; MSIE*; Windows ME*) Opera 10.0*]
+Parent=Opera 10.0
+Platform=WinME
+Win32=true
+
+[Mozilla/* (compatible; MSIE*; Windows NT 4.0*) Opera 10.0*]
+Parent=Opera 10.0
+Platform=WinNT
+Win32=true
+
+[Mozilla/* (compatible; MSIE*; Windows NT 5.0*) Opera 10.0*]
+Parent=Opera 10.0
+Platform=Win2000
+Win32=true
+
+[Mozilla/* (compatible; MSIE*; Windows NT 5.1*) Opera 10.0*]
+Parent=Opera 10.0
+Platform=WinXP
+Win32=true
+
+[Mozilla/* (compatible; MSIE*; Windows NT 5.2*) Opera 10.0*]
+Parent=Opera 10.0
+Platform=Win2003
+Win32=true
+
+[Mozilla/* (compatible; MSIE*; Windows NT 6.0*) Opera 10.0*]
+Parent=Opera 10.0
+Platform=WinVista
+Win32=true
+
+[Mozilla/* (compatible; MSIE*; Windows NT 6.1*) Opera 10.0*]
+Parent=Opera 10.0
+Platform=Win7
+
+[Mozilla/* (compatible; MSIE*; Windows XP*) Opera 10.0*]
+Parent=Opera 10.0
+Platform=WinXP
+Win32=true
+
+[Mozilla/* (compatible; MSIE*; X11; FreeBSD*) Opera 10.0*]
+Parent=Opera 10.0
+Platform=FreeBSD
+
+[Mozilla/* (compatible; MSIE*; X11; Linux*) Opera 10.0*]
+Parent=Opera 10.0
+Platform=Linux
+
+[Mozilla/* (compatible; MSIE*; X11; SunOS*) Opera 10.0*]
+Parent=Opera 10.0
+Platform=SunOS
+
+[Mozilla/* (Macintosh; *Mac OS X; ?) Opera 10.0*]
+Parent=Opera 10.0
+Platform=MacOSX
+
+[Mozilla/* (Windows 2000;*) Opera 10.0*]
+Parent=Opera 10.0
+Platform=Win2000
+Win32=true
+
+[Mozilla/* (Windows 95;*) Opera 10.0*]
+Parent=Opera 10.0
+Platform=Win95
+Win32=true
+
+[Mozilla/* (Windows 98;*) Opera 10.0*]
+Parent=Opera 10.0
+Platform=Win98
+Win32=true
+
+[Mozilla/* (Windows ME;*) Opera 10.0*]
+Parent=Opera 10.0
+Platform=WinME
+Win32=true
+
+[Mozilla/* (Windows NT 4.0;*) Opera 10.0*]
+Parent=Opera 10.0
+Platform=WinNT
+Win32=true
+
+[Mozilla/* (Windows NT 5.0;*) Opera 10.0*]
+Parent=Opera 10.0
+Platform=Win2000
+Win32=true
+
+[Mozilla/* (Windows NT 5.1;*) Opera 10.0*]
+Parent=Opera 10.0
+Platform=WinXP
+Win32=true
+
+[Mozilla/* (Windows NT 5.2;*) Opera 10.0*]
+Parent=Opera 10.0
+Platform=Win2003
+Win32=true
+
+[Mozilla/* (Windows NT 6.0;*) Opera 10.0*]
+Parent=Opera 10.0
+Platform=WinVista
+
+[Mozilla/* (Windows NT 6.1;*) Opera 10.0*]
+Parent=Opera 10.0
+Platform=Win7
+
+[Mozilla/* (X11; Linux*) Opera 10.0*]
+Parent=Opera 10.0
+Platform=Linux
+
+[Opera/10.0* (Linux*)*]
+Parent=Opera 10.0
+Platform=Linux
+
+[Opera/10.0* (Macintosh; *Mac OS X;*)*]
+Parent=Opera 10.0
+Platform=MacOSX
+
+[Opera/10.0* (Windows 95*)*]
+Parent=Opera 10.0
+Platform=Win95
+Win32=true
+
+[Opera/10.0* (Windows 98*)*]
+Parent=Opera 10.0
+Platform=Win98
+Win32=true
+
+[Opera/10.0* (Windows CE*)*]
+Parent=Opera 10.0
+Platform=WinCE
+Win32=true
+
+[Opera/10.0* (Windows ME*)*]
+Parent=Opera 10.0
+Platform=WinME
+Win32=true
+
+[Opera/10.0* (Windows NT 4.0*)*]
+Parent=Opera 10.0
+Platform=WinNT
+Win32=true
+
+[Opera/10.0* (Windows NT 5.0*)*]
+Parent=Opera 10.0
+Platform=Win2000
+Win32=true
+
+[Opera/10.0* (Windows NT 5.1*)*]
+Parent=Opera 10.0
+Platform=WinXP
+Win32=true
+
+[Opera/10.0* (Windows NT 5.2*)*]
+Parent=Opera 10.0
+Platform=Win2003
+Win32=true
+
+[Opera/10.0* (Windows NT 6.0*)*]
+Parent=Opera 10.0
+Platform=WinVista
+Win32=true
+
+[Opera/10.0* (Windows NT 6.1*)*]
+Parent=Opera 10.0
+Platform=Win7
+
+[Opera/10.0* (Windows XP*)*]
+Parent=Opera 10.0
+Platform=WinXP
+Win32=true
+
+[Opera/10.0* (X11; FreeBSD*)*]
+Parent=Opera 10.0
+Platform=FreeBSD
+
+[Opera/10.0* (X11; Linux*)*]
+Parent=Opera 10.0
+Platform=Linux
+
+[Opera/10.0* (X11; SunOS*)*]
+Parent=Opera 10.0
+Platform=SunOS
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;; Opera 7.0
+
+[Opera 7.0]
+Parent=DefaultProperties
+Browser=Opera
+Version=7.0
+MajorVer=7
+Frames=true
+IFrames=true
+Tables=true
+Cookies=true
+BackgroundSounds=true
+JavaApplets=true
+JavaScript=true
+CssVersion=2
+supportsCSS=true
+
+[Mozilla/3.0 (Windows 2000; ?) Opera 7.0*]
+Parent=Opera 7.0
+Platform=Win2000
+Win32=true
+
+[Mozilla/3.0 (Windows 95; ?) Opera 7.0*]
+Parent=Opera 7.0
+Platform=Win95
+Win32=true
+
+[Mozilla/3.0 (Windows 98; ?) Opera 7.0*]
+Parent=Opera 7.0
+Platform=Win98
+Win32=true
+
+[Mozilla/3.0 (Windows ME; ?) Opera 7.0*]
+Parent=Opera 7.0
+Platform=WinME
+Win32=true
+
+[Mozilla/3.0 (Windows NT 4.0; ?) Opera 7.0*]
+Parent=Opera 7.0
+Platform=WinNT
+Win32=true
+
+[Mozilla/3.0 (Windows XP; ?) Opera 7.0*]
+Parent=Opera 7.0
+Platform=WinXP
+Win32=true
+
+[Mozilla/4.0 (compatible; MSIE 6.0; MSIE 5.5; Windows 2000) Opera 7.0*]
+Parent=Opera 7.0
+Platform=Win2000
+Win32=true
+
+[Mozilla/4.0 (compatible; MSIE 6.0; MSIE 5.5; Windows 95) Opera 7.0*]
+Parent=Opera 7.0
+Platform=Win95
+Win32=true
+
+[Mozilla/4.0 (compatible; MSIE 6.0; MSIE 5.5; Windows 98) Opera 7.0*]
+Parent=Opera 7.0
+Platform=Win98
+Win32=true
+
+[Mozilla/4.0 (compatible; MSIE 6.0; MSIE 5.5; Windows ME) Opera 7.0*]
+Parent=Opera 7.0
+Platform=WinME
+Win32=true
+
+[Mozilla/4.0 (compatible; MSIE 6.0; MSIE 5.5; Windows NT 4.0) Opera 7.0*]
+Parent=Opera 7.0
+Platform=WinNT
+Win32=true
+
+[Mozilla/4.0 (compatible; MSIE 6.0; MSIE 5.5; Windows NT 5.0) Opera 7.0*]
+Parent=Opera 7.0
+Platform=Win2000
+Win32=true
+
+[Mozilla/4.0 (compatible; MSIE 6.0; MSIE 5.5; Windows NT 5.1) Opera 7.0*]
+Parent=Opera 7.0
+Platform=WinXP
+Win32=true
+
+[Mozilla/4.0 (compatible; MSIE 6.0; MSIE 5.5; Windows XP) Opera 7.0*]
+Parent=Opera 7.0
+Platform=WinXP
+Win32=true
+
+[Mozilla/4.78 (Windows 2000; ?) Opera 7.0*]
+Parent=Opera 7.0
+Platform=Win2000
+Win32=true
+
+[Mozilla/4.78 (Windows 95; ?) Opera 7.0*]
+Parent=Opera 7.0
+Platform=Win95
+Win32=true
+
+[Mozilla/4.78 (Windows 98; ?) Opera 7.0*]
+Parent=Opera 7.0
+Platform=Win98
+Win32=true
+
+[Mozilla/4.78 (Windows ME; ?) Opera 7.0*]
+Parent=Opera 7.0
+Platform=WinME
+Win32=true
+
+[Mozilla/4.78 (Windows NT 4.0; ?) Opera 7.0*]
+Parent=Opera 7.0
+Platform=WinNT
+Win32=true
+
+[Mozilla/4.78 (Windows NT 5.1; ?) Opera 7.0*]
+Parent=Opera 7.0
+Platform=WinXP
+Win32=true
+
+[Mozilla/4.78 (Windows Windows NT 5.0; ?) Opera 7.0*]
+Parent=Opera 7.0
+Platform=Win2000
+Win32=true
+
+[Mozilla/4.78 (Windows XP; ?) Opera 7.0*]
+Parent=Opera 7.0
+Platform=WinXP
+Win32=true
+
+[Mozilla/5.0 (Windows 2000; ?) Opera 7.0*]
+Parent=Opera 7.0
+Platform=Win2000
+Win32=true
+
+[Mozilla/5.0 (Windows 95; ?) Opera 7.0*]
+Parent=Opera 7.0
+Platform=Win95
+Win32=true
+
+[Mozilla/5.0 (Windows 98; ?) Opera 7.0*]
+Parent=Opera 7.0
+Platform=Win98
+Win32=true
+
+[Mozilla/5.0 (Windows ME; ?) Opera 7.0*]
+Parent=Opera 7.0
+Platform=WinME
+Win32=true
+
+[Mozilla/5.0 (Windows NT 4.0; ?) Opera 7.0*]
+Parent=Opera 7.0
+Platform=WinNT
+Win32=true
+
+[Mozilla/5.0 (Windows NT 5.1; ?) Opera 7.0*]
+Parent=Opera 7.0
+Platform=WinXP
+Win32=true
+
+[Mozilla/5.0 (Windows XP; ?) Opera 7.0*]
+Parent=Opera 7.0
+Platform=WinXP
+Win32=true
+
+[Opera/7.0* (Windows 2000; ?)*]
+Parent=Opera 7.0
+Platform=Win2000
+Win32=true
+
+[Opera/7.0* (Windows 95; ?)*]
+Parent=Opera 7.0
+Platform=Win95
+Win32=true
+
+[Opera/7.0* (Windows 98; ?)*]
+Parent=Opera 7.0
+Platform=Win98
+Win32=true
+
+[Opera/7.0* (Windows ME; ?)*]
+Parent=Opera 7.0
+Platform=WinME
+Win32=true
+
+[Opera/7.0* (Windows NT 4.0; ?)*]
+Parent=Opera 7.0
+Platform=WinNT
+Win32=true
+
+[Opera/7.0* (Windows NT 5.0; ?)*]
+Parent=Opera 7.0
+Platform=Win2000
+Win32=true
+
+[Opera/7.0* (Windows NT 5.1; ?)*]
+Parent=Opera 7.0
+Platform=WinXP
+Win32=true
+
+[Opera/7.0* (Windows XP; ?)*]
+Parent=Opera 7.0
+Platform=WinXP
+Win32=true
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;; Opera 7.1
+
+[Opera 7.1]
+Parent=DefaultProperties
+Browser=Opera
+Version=7.1
+MajorVer=7
+MinorVer=1
+Frames=true
+IFrames=true
+Tables=true
+Cookies=true
+BackgroundSounds=true
+JavaApplets=true
+JavaScript=true
+CssVersion=2
+supportsCSS=true
+
+[Mozilla/?.* (compatible; MSIE ?.*; Windows 2000) Opera 7.1*]
+Parent=Opera 7.1
+Platform=Win2000
+Win32=true
+
+[Mozilla/?.* (compatible; MSIE ?.*; Windows 95) Opera 7.1*]
+Parent=Opera 7.1
+Platform=Win95
+Win32=true
+
+[Mozilla/?.* (compatible; MSIE ?.*; Windows 98) Opera 7.1*]
+Parent=Opera 7.1
+Platform=Win98
+Win32=true
+
+[Mozilla/?.* (compatible; MSIE ?.*; Windows ME) Opera 7.1*]
+Parent=Opera 7.1
+Platform=WinME
+Win32=true
+
+[Mozilla/?.* (compatible; MSIE ?.*; Windows NT 4.0) Opera 7.1*]
+Parent=Opera 7.1
+Platform=WinNT
+Win32=true
+
+[Mozilla/?.* (compatible; MSIE ?.*; Windows NT 5.0) Opera 7.1*]
+Parent=Opera 7.1
+Platform=Win2000
+Win32=true
+
+[Mozilla/?.* (compatible; MSIE ?.*; Windows NT 5.1) Opera 7.1*]
+Parent=Opera 7.1
+Platform=WinXP
+Win32=true
+
+[Mozilla/?.* (compatible; MSIE ?.*; Windows XP) Opera 7.1*]
+Parent=Opera 7.1
+Platform=WinXP
+Win32=true
+
+[Mozilla/?.* (Windows 2000; ?) Opera 7.1*]
+Parent=Opera 7.1
+Platform=Win2000
+Win32=true
+
+[Mozilla/?.* (Windows 95; ?) Opera 7.1*]
+Parent=Opera 7.1
+Platform=Win95
+Win32=true
+
+[Mozilla/?.* (Windows 98; ?) Opera 7.1*]
+Parent=Opera 7.1
+Platform=Win98
+Win32=true
+
+[Mozilla/?.* (Windows ME; ?) Opera 7.1*]
+Parent=Opera 7.1
+Platform=WinME
+Win32=true
+
+[Mozilla/?.* (Windows NT 4.0; U) Opera 7.1*]
+Parent=Opera 7.1
+Platform=WinNT
+Win32=true
+
+[Mozilla/?.* (Windows NT 5.0; U) Opera 7.1*]
+Parent=Opera 7.1
+Platform=Win2000
+Win32=true
+
+[Mozilla/?.* (Windows NT 5.1; ?) Opera 7.1*]
+Parent=Opera 7.1
+Platform=WinXP
+Win32=true
+
+[Opera/7.1* (Linux*; ?)*]
+Parent=Opera 7.1
+Platform=Linux
+
+[Opera/7.1* (Windows 95; ?)*]
+Parent=Opera 7.1
+Platform=Win95
+Win32=true
+
+[Opera/7.1* (Windows 98; ?)*]
+Parent=Opera 7.1
+Platform=Win98
+Win32=true
+
+[Opera/7.1* (Windows ME; ?)*]
+Parent=Opera 7.1
+Platform=WinME
+Win32=true
+
+[Opera/7.1* (Windows NT 4.0; ?)*]
+Parent=Opera 7.1
+Platform=WinNT
+Win32=true
+
+[Opera/7.1* (Windows NT 5.0; ?)*]
+Parent=Opera 7.1
+Platform=Win2000
+Win32=true
+
+[Opera/7.1* (Windows NT 5.1; ?)*]
+Parent=Opera 7.1
+Platform=WinXP
+Win32=true
+
+[Opera/7.1* (Windows XP; ?)*]
+Parent=Opera 7.1
+Platform=WinXP
+Win32=true
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;; Opera 7.2
+
+[Opera 7.2]
+Parent=DefaultProperties
+Browser=Opera
+Version=7.2
+MajorVer=7
+MinorVer=2
+Frames=true
+IFrames=true
+Tables=true
+Cookies=true
+BackgroundSounds=true
+JavaApplets=true
+JavaScript=true
+CssVersion=2
+supportsCSS=true
+
+[Mozilla/?.* (compatible; MSIE ?.*; Linux*) Opera 7.2*]
+Parent=Opera 7.2
+Platform=Linux
+
+[Mozilla/?.* (compatible; MSIE ?.*; Windows 2000) Opera 7.2*]
+Parent=Opera 7.2
+Platform=Win2000
+Win32=true
+
+[Mozilla/?.* (compatible; MSIE ?.*; Windows 95) Opera 7.2*]
+Parent=Opera 7.2
+Platform=Win95
+Win32=true
+
+[Mozilla/?.* (compatible; MSIE ?.*; Windows 98) Opera 7.2*]
+Parent=Opera 7.2
+Platform=Win98
+Win32=true
+
+[Mozilla/?.* (compatible; MSIE ?.*; Windows ME) Opera 7.2*]
+Parent=Opera 7.2
+Platform=WinME
+Win32=true
+
+[Mozilla/?.* (compatible; MSIE ?.*; Windows NT 4.0) Opera 7.2*]
+Parent=Opera 7.2
+Platform=WinNT
+Win32=true
+
+[Mozilla/?.* (compatible; MSIE ?.*; Windows NT 5.0) Opera 7.2*]
+Parent=Opera 7.2
+Platform=Win2000
+Win32=true
+
+[Mozilla/?.* (compatible; MSIE ?.*; Windows NT 5.1) Opera 7.2*]
+Parent=Opera 7.2
+Platform=WinXP
+Win32=true
+
+[Mozilla/?.* (compatible; MSIE ?.*; Windows NT 5.2) Opera 7.2*]
+Parent=Opera 7.2
+Platform=Win2003
+Win32=true
+
+[Mozilla/?.* (compatible; MSIE ?.*; Windows XP) Opera 7.2*]
+Parent=Opera 7.2
+Platform=WinXP
+Win32=true
+
+[Mozilla/?.* (Windows 2000; ?) Opera 7.2*]
+Parent=Opera 7.2
+Platform=Win2000
+Win32=true
+
+[Mozilla/?.* (Windows 95; ?) Opera 7.2*]
+Parent=Opera 7.2
+Platform=Win95
+Win32=true
+
+[Mozilla/?.* (Windows 98; ?) Opera 7.2*]
+Parent=Opera 7.2
+Platform=Win98
+Win32=true
+
+[Mozilla/?.* (Windows ME; ?) Opera 7.2*]
+Parent=Opera 7.2
+Platform=WinME
+Win32=true
+
+[Mozilla/?.* (Windows NT 4.0; U) Opera 7.2*]
+Parent=Opera 7.2
+Platform=WinNT
+Win32=true
+
+[Mozilla/?.* (Windows NT 5.0; U) Opera 7.2*]
+Parent=Opera 7.2
+Platform=Win2000
+Win32=true
+
+[Mozilla/?.* (Windows NT 5.1; ?) Opera 7.2*]
+Parent=Opera 7.2
+Platform=WinXP
+Win32=true
+
+[Mozilla/?.* (Windows NT 5.2; ?) Opera 7.2*]
+Parent=Opera 7.2
+Platform=Win2003
+Win32=true
+
+[Opera/7.2* (Linux*; ?)*]
+Parent=Opera 7.2
+Platform=Linux
+
+[Opera/7.2* (Windows 95; ?)*]
+Parent=Opera 7.2
+Platform=Win95
+Win32=true
+
+[Opera/7.2* (Windows 98; ?)*]
+Parent=Opera 7.2
+Platform=Win98
+Win32=true
+
+[Opera/7.2* (Windows ME; ?)*]
+Parent=Opera 7.2
+Platform=WinME
+Win32=true
+
+[Opera/7.2* (Windows NT 4.0; ?)*]
+Parent=Opera 7.2
+Platform=WinNT
+Win32=true
+
+[Opera/7.2* (Windows NT 5.0; ?)*]
+Parent=Opera 7.2
+Platform=Win2000
+Win32=true
+
+[Opera/7.2* (Windows NT 5.1; ?)*]
+Parent=Opera 7.2
+Platform=WinXP
+Win32=true
+
+[Opera/7.2* (Windows NT 5.2; ?)*]
+Parent=Opera 7.2
+Platform=Win2003
+Win32=true
+
+[Opera/7.2* (Windows XP; ?)*]
+Parent=Opera 7.2
+Platform=WinXP
+Win32=true
+
+[Opera/7.2* (X11; FreeBSD*; ?)*]
+Parent=Opera 7.2
+Platform=FreeBSD
+
+[Opera/7.2* (X11; Linux*; ?)*]
+Parent=Opera 7.2
+Platform=Linux
+
+[Opera/7.2* (X11; SunOS*)*]
+Parent=Opera 7.2
+Platform=SunOS
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;; Opera 7.5
+
+[Opera 7.5]
+Parent=DefaultProperties
+Browser=Opera
+Version=7.5
+MajorVer=7
+MinorVer=5
+Frames=true
+IFrames=true
+Tables=true
+Cookies=true
+BackgroundSounds=true
+JavaApplets=true
+JavaScript=true
+CssVersion=2
+supportsCSS=true
+
+[Mozilla/?.* (compatible; MSIE ?.*; Linux*) Opera 7.5*]
+Parent=Opera 7.5
+Platform=Linux
+
+[Mozilla/?.* (compatible; MSIE ?.*; Mac_PowerPC) Opera 7.5*]
+Parent=Opera 7.5
+Platform=MacPPC
+
+[Mozilla/?.* (compatible; MSIE ?.*; Windows 2000) Opera 7.5*]
+Parent=Opera 7.5
+Platform=Win2000
+Win32=true
+
+[Mozilla/?.* (compatible; MSIE ?.*; Windows 95) Opera 7.5*]
+Parent=Opera 7.5
+Platform=Win95
+Win32=true
+
+[Mozilla/?.* (compatible; MSIE ?.*; Windows 98) Opera 7.5*]
+Parent=Opera 7.5
+Platform=Win98
+Win32=true
+
+[Mozilla/?.* (compatible; MSIE ?.*; Windows ME) Opera 7.5*]
+Parent=Opera 7.5
+Platform=WinME
+Win32=true
+
+[Mozilla/?.* (compatible; MSIE ?.*; Windows NT 4.0) Opera 7.5*]
+Parent=Opera 7.5
+Platform=WinNT
+Win32=true
+
+[Mozilla/?.* (compatible; MSIE ?.*; Windows NT 5.0) Opera 7.5*]
+Parent=Opera 7.5
+Platform=Win2000
+Win32=true
+
+[Mozilla/?.* (compatible; MSIE ?.*; Windows NT 5.1) Opera 7.5*]
+Parent=Opera 7.5
+Platform=WinXP
+Win32=true
+
+[Mozilla/?.* (compatible; MSIE ?.*; Windows NT 5.2) Opera 7.5*]
+Parent=Opera 7.5
+Platform=Win2003
+Win32=true
+
+[Mozilla/?.* (compatible; MSIE ?.*; Windows XP) Opera 7.5*]
+Parent=Opera 7.5
+Platform=WinXP
+Win32=true
+
+[Mozilla/?.* (compatible; MSIE ?.*; X11; Linux*) Opera 7.5*]
+Parent=Opera 7.5
+Platform=Linux
+
+[Mozilla/?.* (Macintosh; *Mac OS X; ?) Opera 7.5*]
+Parent=Opera 7.5
+Platform=MacOSX
+
+[Mozilla/?.* (Windows 2000; ?) Opera 7.5*]
+Parent=Opera 7.5
+Platform=Win2000
+Win32=true
+
+[Mozilla/?.* (Windows 95; ?) Opera 7.5*]
+Parent=Opera 7.5
+Platform=Win95
+Win32=true
+
+[Mozilla/?.* (Windows 98; ?) Opera 7.5*]
+Parent=Opera 7.5
+Platform=Win98
+Win32=true
+
+[Mozilla/?.* (Windows ME; ?) Opera 7.5*]
+Parent=Opera 7.5
+Platform=WinME
+Win32=true
+
+[Mozilla/?.* (Windows NT 4.0; U) Opera 7.5*]
+Parent=Opera 7.5
+Platform=WinNT
+Win32=true
+
+[Mozilla/?.* (Windows NT 5.0; U) Opera 7.5*]
+Parent=Opera 7.5
+Platform=Win2000
+Win32=true
+
+[Mozilla/?.* (Windows NT 5.1; ?) Opera 7.5*]
+Parent=Opera 7.5
+Platform=WinXP
+Win32=true
+
+[Mozilla/?.* (Windows NT 5.2; ?) Opera 7.5*]
+Parent=Opera 7.5
+Platform=Win2003
+Win32=true
+
+[Mozilla/?.* (X11; Linux*; ?) Opera 7.5*]
+Parent=Opera 7.5
+Platform=Linux
+
+[Opera/7.5* (Linux*; ?)*]
+Parent=Opera 7.5
+Platform=Linux
+
+[Opera/7.5* (Macintosh; *Mac OS X; ?)*]
+Parent=Opera 7.5
+Platform=MacOSX
+
+[Opera/7.5* (Windows 95; ?)*]
+Parent=Opera 7.5
+Platform=Win95
+Win32=true
+
+[Opera/7.5* (Windows 98; ?)*]
+Parent=Opera 7.5
+Platform=Win98
+Win32=true
+
+[Opera/7.5* (Windows ME; ?)*]
+Parent=Opera 7.5
+Platform=WinME
+Win32=true
+
+[Opera/7.5* (Windows NT 4.0; ?)*]
+Parent=Opera 7.5
+Platform=WinNT
+Win32=true
+
+[Opera/7.5* (Windows NT 5.0; ?)*]
+Parent=Opera 7.5
+Platform=Win2000
+Win32=true
+
+[Opera/7.5* (Windows NT 5.1; ?)*]
+Parent=Opera 7.5
+Platform=WinXP
+Win32=true
+
+[Opera/7.5* (Windows NT 5.2; ?)*]
+Parent=Opera 7.5
+Platform=Win2003
+Win32=true
+
+[Opera/7.5* (Windows XP; ?)*]
+Parent=Opera 7.5
+Platform=WinXP
+Win32=true
+
+[Opera/7.5* (X11; FreeBSD*; ?)*]
+Parent=Opera 7.5
+Platform=FreeBSD
+
+[Opera/7.5* (X11; Linux*; ?)*]
+Parent=Opera 7.5
+Platform=Linux
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;; Opera 7.6
+
+[Opera 7.6]
+Parent=DefaultProperties
+Browser=Opera
+Version=7.6
+MajorVer=7
+MinorVer=6
+Frames=true
+IFrames=true
+Tables=true
+Cookies=true
+BackgroundSounds=true
+JavaApplets=true
+JavaScript=true
+CssVersion=2
+supportsCSS=true
+
+[Mozilla/?.* (compatible; MSIE ?.*; Linux*) Opera 7.6*]
+Parent=Opera 7.6
+Platform=Linux
+
+[Mozilla/?.* (compatible; MSIE ?.*; Mac_PowerPC) Opera 7.6*]
+Parent=Opera 7.6
+Platform=MacPPC
+
+[Mozilla/?.* (compatible; MSIE ?.*; Windows 2000) Opera 7.6*]
+Parent=Opera 7.6
+Platform=Win2000
+Win32=true
+
+[Mozilla/?.* (compatible; MSIE ?.*; Windows 95) Opera 7.6*]
+Parent=Opera 7.6
+Platform=Win95
+Win32=true
+
+[Mozilla/?.* (compatible; MSIE ?.*; Windows 98) Opera 7.6*]
+Parent=Opera 7.6
+Platform=Win98
+Win32=true
+
+[Mozilla/?.* (compatible; MSIE ?.*; Windows ME) Opera 7.6*]
+Parent=Opera 7.6
+Platform=WinME
+Win32=true
+
+[Mozilla/?.* (compatible; MSIE ?.*; Windows NT 4.0) Opera 7.6*]
+Parent=Opera 7.6
+Platform=WinNT
+Win32=true
+
+[Mozilla/?.* (compatible; MSIE ?.*; Windows NT 5.0) Opera 7.6*]
+Parent=Opera 7.6
+Platform=Win2000
+Win32=true
+
+[Mozilla/?.* (compatible; MSIE ?.*; Windows NT 5.1) Opera 7.6*]
+Parent=Opera 7.6
+Platform=WinXP
+Win32=true
+
+[Mozilla/?.* (compatible; MSIE ?.*; Windows NT 5.2) Opera 7.6*]
+Parent=Opera 7.6
+Platform=Win2003
+Win32=true
+
+[Mozilla/?.* (compatible; MSIE ?.*; Windows XP) Opera 7.6*]
+Parent=Opera 7.6
+Platform=WinXP
+Win32=true
+
+[Mozilla/?.* (compatible; MSIE ?.*; X11; Linux*) Opera 7.6*]
+Parent=Opera 7.6
+Platform=Linux
+
+[Mozilla/?.* (Macintosh; *Mac OS X; ?) Opera 7.6*]
+Parent=Opera 7.6
+Platform=MacOSX
+
+[Mozilla/?.* (Windows 2000; ?) Opera 7.6*]
+Parent=Opera 7.6
+Platform=Win2000
+Win32=true
+
+[Mozilla/?.* (Windows 95; ?) Opera 7.6*]
+Parent=Opera 7.6
+Platform=Win95
+Win32=true
+
+[Mozilla/?.* (Windows 98; ?) Opera 7.6*]
+Parent=Opera 7.6
+Platform=Win98
+Win32=true
+
+[Mozilla/?.* (Windows ME; ?) Opera 7.6*]
+Parent=Opera 7.6
+Platform=WinME
+Win32=true
+
+[Mozilla/?.* (Windows NT 4.0; U) Opera 7.6*]
+Parent=Opera 7.6
+Platform=WinNT
+Win32=true
+
+[Mozilla/?.* (Windows NT 5.0; U) Opera 7.6*]
+Parent=Opera 7.6
+Platform=Win2000
+Win32=true
+
+[Mozilla/?.* (Windows NT 5.1; ?) Opera 7.6*]
+Parent=Opera 7.6
+Platform=WinXP
+Win32=true
+
+[Mozilla/?.* (Windows NT 5.2; ?) Opera 7.6*]
+Parent=Opera 7.6
+Platform=Win2003
+Win32=true
+
+[Mozilla/?.* (X11; Linux*; ?) Opera 7.6*]
+Parent=Opera 7.6
+Platform=Linux
+
+[Opera/7.6* (Linux*)*]
+Parent=Opera 7.6
+Platform=Linux
+
+[Opera/7.6* (Macintosh; *Mac OS X; ?)*]
+Parent=Opera 7.6
+Platform=MacOSX
+
+[Opera/7.6* (Windows 95*)*]
+Parent=Opera 7.6
+Platform=Win95
+Win32=true
+
+[Opera/7.6* (Windows 98*)*]
+Parent=Opera 7.6
+Platform=Win98
+Win32=true
+
+[Opera/7.6* (Windows ME*)*]
+Parent=Opera 7.6
+Platform=WinME
+Win32=true
+
+[Opera/7.6* (Windows NT 4.0*)*]
+Parent=Opera 7.6
+Platform=WinNT
+Win32=true
+
+[Opera/7.6* (Windows NT 5.0*)*]
+Parent=Opera 7.6
+Platform=Win2000
+Win32=true
+
+[Opera/7.6* (Windows NT 5.1*)*]
+Parent=Opera 7.6
+Platform=WinXP
+Win32=true
+
+[Opera/7.6* (Windows NT 5.2*)*]
+Parent=Opera 7.6
+Platform=Win2003
+Win32=true
+
+[Opera/7.6* (Windows XP*)*]
+Parent=Opera 7.6
+Platform=WinXP
+Win32=true
+
+[Opera/7.6* (X11; FreeBSD*)*]
+Parent=Opera 7.6
+Platform=FreeBSD
+
+[Opera/7.6* (X11; Linux*)*]
+Parent=Opera 7.6
+Platform=Linux
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;; Opera 8.0
+
+[Opera 8.0]
+Parent=DefaultProperties
+Browser=Opera
+Version=8.0
+MajorVer=8
+Frames=true
+IFrames=true
+Tables=true
+Cookies=true
+BackgroundSounds=true
+JavaApplets=true
+JavaScript=true
+CssVersion=2
+supportsCSS=true
+
+[Mozilla/?.* (compatible; MSIE ?.*; Linux*) Opera 8.0*]
+Parent=Opera 8.0
+Platform=Linux
+
+[Mozilla/?.* (compatible; MSIE ?.*; Mac_PowerPC Mac OS X; *) Opera 8.0*]
+Parent=Opera 8.0
+Platform=MacOSX
+
+[Mozilla/?.* (compatible; MSIE ?.*; Mac_PowerPC) Opera 8.0*]
+Parent=Opera 8.0
+Platform=MacPPC
+
+[Mozilla/?.* (compatible; MSIE ?.*; Windows 2000*) Opera 8.0*]
+Parent=Opera 8.0
+Platform=Win2000
+Win32=true
+
+[Mozilla/?.* (compatible; MSIE ?.*; Windows 95*) Opera 8.0*]
+Parent=Opera 8.0
+Platform=Win95
+Win32=true
+
+[Mozilla/?.* (compatible; MSIE ?.*; Windows 98*) Opera 8.0*]
+Parent=Opera 8.0
+Platform=Win98
+Win32=true
+
+[Mozilla/?.* (compatible; MSIE ?.*; Windows CE) Opera 8.0*]
+Parent=Opera 8.0
+Platform=WinCE
+Win32=true
+
+[Mozilla/?.* (compatible; MSIE ?.*; Windows ME*) Opera 8.0*]
+Parent=Opera 8.0
+Platform=WinME
+Win32=true
+
+[Mozilla/?.* (compatible; MSIE ?.*; Windows NT 4.0*) Opera 8.0*]
+Parent=Opera 8.0
+Platform=WinNT
+Win32=true
+
+[Mozilla/?.* (compatible; MSIE ?.*; Windows NT 5.0*) Opera 8.0*]
+Parent=Opera 8.0
+Platform=Win2000
+Win32=true
+
+[Mozilla/?.* (compatible; MSIE ?.*; Windows NT 5.1*) Opera 8.0*]
+Parent=Opera 8.0
+Platform=WinXP
+Win32=true
+
+[Mozilla/?.* (compatible; MSIE ?.*; Windows NT 5.2*) Opera 8.0*]
+Parent=Opera 8.0
+Platform=Win2003
+Win32=true
+
+[Mozilla/?.* (compatible; MSIE ?.*; Windows XP*) Opera 8.0*]
+Parent=Opera 8.0
+Platform=WinXP
+Win32=true
+
+[Mozilla/?.* (compatible; MSIE ?.*; X11; FreeBSD*) Opera 8.0*]
+Parent=Opera 8.0
+Platform=FreeBSD
+
+[Mozilla/?.* (compatible; MSIE ?.*; X11; Linux*) Opera 8.0*]
+Parent=Opera 8.0
+Platform=Linux
+
+[Mozilla/?.* (Macintosh; *Mac OS X; ?) Opera 8.0*]
+Parent=Opera 8.0
+Platform=MacOSX
+
+[Mozilla/?.* (Windows 2000; *) Opera 8.0*]
+Parent=Opera 8.0
+Platform=Win2000
+Win32=true
+
+[Mozilla/?.* (Windows 95; *) Opera 8.0*]
+Parent=Opera 8.0
+Platform=Win95
+Win32=true
+
+[Mozilla/?.* (Windows 98; *) Opera 8.0*]
+Parent=Opera 8.0
+Platform=Win98
+Win32=true
+
+[Mozilla/?.* (Windows ME; *) Opera 8.0*]
+Parent=Opera 8.0
+Platform=WinME
+Win32=true
+
+[Mozilla/?.* (Windows NT 4.0; *) Opera 8.0*]
+Parent=Opera 8.0
+Platform=WinNT
+Win32=true
+
+[Mozilla/?.* (Windows NT 5.0; *) Opera 8.0*]
+Parent=Opera 8.0
+Platform=Win2000
+Win32=true
+
+[Mozilla/?.* (Windows NT 5.1; *) Opera 8.0*]
+Parent=Opera 8.0
+Platform=WinXP
+Win32=true
+
+[Mozilla/?.* (Windows NT 5.2; *) Opera 8.0*]
+Parent=Opera 8.0
+Platform=Win2003
+Win32=true
+
+[Mozilla/?.* (X11; Linux*; *) Opera 8.0*]
+Parent=Opera 8.0
+Platform=Linux
+
+[Opera/8.0* (Linux*)*]
+Parent=Opera 8.0
+Platform=Linux
+
+[Opera/8.0* (Macintosh; *Mac OS X; *)*]
+Parent=Opera 8.0
+Platform=MacOSX
+
+[Opera/8.0* (Windows 95*)*]
+Parent=Opera 8.0
+Platform=Win95
+Win32=true
+
+[Opera/8.0* (Windows 98*)*]
+Parent=Opera 8.0
+Platform=Win98
+Win32=true
+
+[Opera/8.0* (Windows CE*)*]
+Parent=Opera 8.0
+Platform=WinCE
+Win32=true
+
+[Opera/8.0* (Windows ME*)*]
+Parent=Opera 8.0
+Platform=WinME
+Win32=true
+
+[Opera/8.0* (Windows NT 4.0*)*]
+Parent=Opera 8.0
+Platform=WinNT
+Win32=true
+
+[Opera/8.0* (Windows NT 5.0*)*]
+Parent=Opera 8.0
+Platform=Win2000
+Win32=true
+
+[Opera/8.0* (Windows NT 5.1*)*]
+Parent=Opera 8.0
+Platform=WinXP
+Win32=true
+
+[Opera/8.0* (Windows NT 5.2*)*]
+Parent=Opera 8.0
+Platform=Win2003
+Win32=true
+
+[Opera/8.0* (Windows XP*)*]
+Parent=Opera 8.0
+Platform=WinXP
+Win32=true
+
+[Opera/8.0* (X11; FreeBSD*)*]
+Parent=Opera 8.0
+Platform=FreeBSD
+
+[Opera/8.0* (X11; Linux*)*]
+Parent=Opera 8.0
+Platform=Linux
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;; Opera 8.1
+
+[Opera 8.1]
+Parent=DefaultProperties
+Browser=Opera
+Version=8.1
+MajorVer=8
+MinorVer=1
+Frames=true
+IFrames=true
+Tables=true
+Cookies=true
+BackgroundSounds=true
+JavaApplets=true
+JavaScript=true
+CssVersion=2
+supportsCSS=true
+
+[Mozilla/?.* (compatible; MSIE ?.*; Linux*) Opera 8.1*]
+Parent=Opera 8.1
+Platform=Linux
+
+[Mozilla/?.* (compatible; MSIE ?.*; Mac_PowerPC) Opera 8.1*]
+Parent=Opera 8.1
+Platform=MacPPC
+
+[Mozilla/?.* (compatible; MSIE ?.*; Windows 2000*) Opera 8.1*]
+Parent=Opera 8.1
+Platform=Win2000
+Win32=true
+
+[Mozilla/?.* (compatible; MSIE ?.*; Windows 95*) Opera 8.1*]
+Parent=Opera 8.1
+Platform=Win95
+Win32=true
+
+[Mozilla/?.* (compatible; MSIE ?.*; Windows 98*) Opera 8.1*]
+Parent=Opera 8.1
+Platform=Win98
+Win32=true
+
+[Mozilla/?.* (compatible; MSIE ?.*; Windows CE) Opera 8.1*]
+Parent=Opera 8.1
+Platform=WinCE
+Win32=true
+
+[Mozilla/?.* (compatible; MSIE ?.*; Windows ME*) Opera 8.1*]
+Parent=Opera 8.1
+Platform=WinME
+Win32=true
+
+[Mozilla/?.* (compatible; MSIE ?.*; Windows NT 4.0*) Opera 8.1*]
+Parent=Opera 8.1
+Platform=WinNT
+Win32=true
+
+[Mozilla/?.* (compatible; MSIE ?.*; Windows NT 5.0*) Opera 8.1*]
+Parent=Opera 8.1
+Platform=Win2000
+Win32=true
+
+[Mozilla/?.* (compatible; MSIE ?.*; Windows NT 5.1*) Opera 8.1*]
+Parent=Opera 8.1
+Platform=WinXP
+Win32=true
+
+[Mozilla/?.* (compatible; MSIE ?.*; Windows NT 5.2*) Opera 8.1*]
+Parent=Opera 8.1
+Platform=Win2003
+Win32=true
+
+[Mozilla/?.* (compatible; MSIE ?.*; Windows XP*) Opera 8.1*]
+Parent=Opera 8.1
+Platform=WinXP
+Win32=true
+
+[Mozilla/?.* (compatible; MSIE ?.*; X11; FreeBSD*) Opera 8.1*]
+Parent=Opera 8.1
+Platform=FreeBSD
+
+[Mozilla/?.* (compatible; MSIE ?.*; X11; Linux*) Opera 8.1*]
+Parent=Opera 8.1
+Platform=Linux
+
+[Mozilla/?.* (Macintosh; *Mac OS X; ?) Opera 8.1*]
+Parent=Opera 8.1
+Platform=MacOSX
+
+[Mozilla/?.* (Windows 2000; *) Opera 8.1*]
+Parent=Opera 8.1
+Platform=Win2000
+Win32=true
+
+[Mozilla/?.* (Windows 95; *) Opera 8.1*]
+Parent=Opera 8.1
+Platform=Win95
+Win32=true
+
+[Mozilla/?.* (Windows 98; *) Opera 8.1*]
+Parent=Opera 8.1
+Platform=Win98
+Win32=true
+
+[Mozilla/?.* (Windows ME; *) Opera 8.1*]
+Parent=Opera 8.1
+Platform=WinME
+Win32=true
+
+[Mozilla/?.* (Windows NT 4.0; *) Opera 8.1*]
+Parent=Opera 8.1
+Platform=WinNT
+Win32=true
+
+[Mozilla/?.* (Windows NT 5.0; *) Opera 8.1*]
+Parent=Opera 8.1
+Platform=Win2000
+Win32=true
+
+[Mozilla/?.* (Windows NT 5.1; *) Opera 8.1*]
+Parent=Opera 8.1
+Platform=WinXP
+Win32=true
+
+[Mozilla/?.* (Windows NT 5.2; *) Opera 8.1*]
+Parent=Opera 8.1
+Platform=Win2003
+Win32=true
+
+[Mozilla/?.* (X11; Linux*; *) Opera 8.1*]
+Parent=Opera 8.1
+Platform=Linux
+
+[Opera/8.1* (Linux*)*]
+Parent=Opera 8.1
+Platform=Linux
+
+[Opera/8.1* (Macintosh; *Mac OS X; *)*]
+Parent=Opera 8.1
+Platform=MacOSX
+
+[Opera/8.1* (Windows 95*)*]
+Parent=Opera 8.1
+Platform=Win95
+Win32=true
+
+[Opera/8.1* (Windows 98*)*]
+Parent=Opera 8.1
+Platform=Win98
+Win32=true
+
+[Opera/8.1* (Windows CE*)*]
+Parent=Opera 8.1
+Platform=WinCE
+Win32=true
+
+[Opera/8.1* (Windows ME*)*]
+Parent=Opera 8.1
+Platform=WinME
+Win32=true
+
+[Opera/8.1* (Windows NT 4.0*)*]
+Parent=Opera 8.1
+Platform=WinNT
+Win32=true
+
+[Opera/8.1* (Windows NT 5.0*)*]
+Parent=Opera 8.1
+Platform=Win2000
+Win32=true
+
+[Opera/8.1* (Windows NT 5.1*)*]
+Parent=Opera 8.1
+Platform=WinXP
+Win32=true
+
+[Opera/8.1* (Windows NT 5.2*)*]
+Parent=Opera 8.1
+Platform=Win2003
+Win32=true
+
+[Opera/8.1* (Windows XP*)*]
+Parent=Opera 8.1
+Platform=WinXP
+Win32=true
+
+[Opera/8.1* (X11; FreeBSD*)*]
+Parent=Opera 8.1
+Platform=FreeBSD
+
+[Opera/8.1* (X11; Linux*)*]
+Parent=Opera 8.1
+Platform=Linux
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;; Opera 8.5
+
+[Opera 8.5]
+Parent=DefaultProperties
+Browser=Opera
+Version=8.5
+MajorVer=8
+MinorVer=5
+Frames=true
+IFrames=true
+Tables=true
+Cookies=true
+BackgroundSounds=true
+JavaApplets=true
+JavaScript=true
+CssVersion=2
+supportsCSS=true
+ecmascriptversion=1.3
+w3cdomversion=1.0
+
+[Mozilla/?.* (compatible; MSIE ?.*; Linux*) Opera 8.5*]
+Parent=Opera 8.5
+Platform=Linux
+
+[Mozilla/?.* (compatible; MSIE ?.*; Mac_PowerPC Mac OS X;*) Opera 8.5*]
+Parent=Opera 8.5
+Platform=MacOSX
+
+[Mozilla/?.* (compatible; MSIE ?.*; Mac_PowerPC) Opera 8.5*]
+Parent=Opera 8.5
+Platform=MacPPC
+
+[Mozilla/?.* (compatible; MSIE ?.*; Windows 2000*) Opera 8.5*]
+Parent=Opera 8.5
+Platform=Win2000
+Win32=true
+
+[Mozilla/?.* (compatible; MSIE ?.*; Windows 95*) Opera 8.5*]
+Parent=Opera 8.5
+Platform=Win95
+Win32=true
+
+[Mozilla/?.* (compatible; MSIE ?.*; Windows 98*) Opera 8.5*]
+Parent=Opera 8.5
+Platform=Win98
+Win32=true
+
+[Mozilla/?.* (compatible; MSIE ?.*; Windows CE) Opera 8.5*]
+Parent=Opera 8.5
+Platform=WinCE
+Win32=true
+
+[Mozilla/?.* (compatible; MSIE ?.*; Windows ME*) Opera 8.5*]
+Parent=Opera 8.5
+Platform=WinME
+Win32=true
+
+[Mozilla/?.* (compatible; MSIE ?.*; Windows NT 4.0*) Opera 8.5*]
+Parent=Opera 8.5
+Platform=WinNT
+Win32=true
+
+[Mozilla/?.* (compatible; MSIE ?.*; Windows NT 5.0*) Opera 8.5*]
+Parent=Opera 8.5
+Platform=Win2000
+Win32=true
+
+[Mozilla/?.* (compatible; MSIE ?.*; Windows NT 5.1*) Opera 8.5*]
+Parent=Opera 8.5
+Platform=WinXP
+Win32=true
+
+[Mozilla/?.* (compatible; MSIE ?.*; Windows NT 5.2*) Opera 8.5*]
+Parent=Opera 8.5
+Platform=Win2003
+Win32=true
+
+[Mozilla/?.* (compatible; MSIE ?.*; Windows XP*) Opera 8.5*]
+Parent=Opera 8.5
+Platform=WinXP
+Win32=true
+
+[Mozilla/?.* (compatible; MSIE ?.*; X11; FreeBSD*) Opera 8.5*]
+Parent=Opera 8.5
+Platform=FreeBSD
+
+[Mozilla/?.* (compatible; MSIE ?.*; X11; Linux*) Opera 8.5*]
+Parent=Opera 8.5
+Platform=Linux
+
+[Mozilla/?.* (Macintosh; *Mac OS X; ?) Opera 8.5*]
+Parent=Opera 8.5
+Platform=MacOSX
+
+[Mozilla/?.* (Macintosh; PPC Mac OS X;*) Opera 8.5*]
+Parent=Opera 8.5
+Platform=MacOSX
+
+[Mozilla/?.* (Windows 2000; *) Opera 8.5*]
+Parent=Opera 8.5
+Platform=Win2000
+Win32=true
+
+[Mozilla/?.* (Windows 95; *) Opera 8.5*]
+Parent=Opera 8.5
+Platform=Win95
+Win32=true
+
+[Mozilla/?.* (Windows 98; *) Opera 8.5*]
+Parent=Opera 8.5
+Platform=Win98
+Win32=true
+
+[Mozilla/?.* (Windows ME; *) Opera 8.5*]
+Parent=Opera 8.5
+Platform=WinME
+Win32=true
+
+[Mozilla/?.* (Windows NT 4.0; *) Opera 8.5*]
+Parent=Opera 8.5
+Platform=WinNT
+Win32=true
+
+[Mozilla/?.* (Windows NT 5.0; *) Opera 8.5*]
+Parent=Opera 8.5
+Platform=Win2000
+Win32=true
+
+[Mozilla/?.* (Windows NT 5.1; *) Opera 8.5*]
+Parent=Opera 8.5
+Platform=WinXP
+Win32=true
+
+[Mozilla/?.* (Windows NT 5.2; *) Opera 8.5*]
+Parent=Opera 8.5
+Platform=Win2003
+Win32=true
+
+[Mozilla/?.* (X11; Linux*; *) Opera 8.5*]
+Parent=Opera 8.5
+Platform=Linux
+
+[Opera/8.5* (Linux*)*]
+Parent=Opera 8.5
+Platform=Linux
+
+[Opera/8.5* (Macintosh; *Mac OS X; *)*]
+Parent=Opera 8.5
+Platform=MacOSX
+
+[Opera/8.5* (Windows 95*)*]
+Parent=Opera 8.5
+Platform=Win95
+Win32=true
+
+[Opera/8.5* (Windows 98*)*]
+Parent=Opera 8.5
+Platform=Win98
+Win32=true
+
+[Opera/8.5* (Windows CE*)*]
+Parent=Opera 8.5
+Platform=WinCE
+Win32=true
+
+[Opera/8.5* (Windows ME*)*]
+Parent=Opera 8.5
+Platform=WinME
+Win32=true
+
+[Opera/8.5* (Windows NT 4.0*)*]
+Parent=Opera 8.5
+Platform=WinNT
+Win32=true
+
+[Opera/8.5* (Windows NT 5.0*)*]
+Parent=Opera 8.5
+Platform=Win2000
+Win32=true
+
+[Opera/8.5* (Windows NT 5.1*)*]
+Parent=Opera 8.5
+Platform=WinXP
+Win32=true
+
+[Opera/8.5* (Windows NT 5.2*)*]
+Parent=Opera 8.5
+Platform=Win2003
+Win32=true
+
+[Opera/8.5* (Windows XP*)*]
+Parent=Opera 8.5
+Platform=WinXP
+Win32=true
+
+[Opera/8.5* (X11; FreeBSD*)*]
+Parent=Opera 8.5
+Platform=FreeBSD
+
+[Opera/8.5* (X11; Linux*)*]
+Parent=Opera 8.5
+Platform=Linux
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;; Opera 9.0
+
+[Opera 9.0]
+Parent=DefaultProperties
+Browser=Opera
+Version=9.0
+MajorVer=9
+Frames=true
+IFrames=true
+Tables=true
+Cookies=true
+BackgroundSounds=true
+JavaApplets=true
+JavaScript=true
+CssVersion=2
+supportsCSS=true
+ecmascriptversion=1.5
+w3cdomversion=1.0
+
+[Mozilla/* (compatible; MSIE*; Linux*) Opera 9.0*]
+Parent=Opera 9.0
+Platform=Linux
+
+[Mozilla/* (compatible; MSIE*; Mac_PowerPC Mac OS X;*) Opera 9.0*]
+Parent=Opera 9.0
+Platform=MacOSX
+
+[Mozilla/* (compatible; MSIE*; Mac_PowerPC) Opera 9.0*]
+Parent=Opera 9.0
+Platform=MacPPC
+
+[Mozilla/* (compatible; MSIE*; Windows 2000*) Opera 9.0*]
+Parent=Opera 9.0
+Platform=Win2000
+Win32=true
+
+[Mozilla/* (compatible; MSIE*; Windows 95*) Opera 9.0*]
+Parent=Opera 9.0
+Platform=Win95
+Win32=true
+
+[Mozilla/* (compatible; MSIE*; Windows 98*) Opera 9.0*]
+Parent=Opera 9.0
+Platform=Win98
+Win32=true
+
+[Mozilla/* (compatible; MSIE*; Windows CE*) Opera 9.0*]
+Parent=Opera 9.0
+Platform=WinCE
+Win32=true
+
+[Mozilla/* (compatible; MSIE*; Windows ME*) Opera 9.0*]
+Parent=Opera 9.0
+Platform=WinME
+Win32=true
+
+[Mozilla/* (compatible; MSIE*; Windows NT 4.0*) Opera 9.0*]
+Parent=Opera 9.0
+Platform=WinNT
+Win32=true
+
+[Mozilla/* (compatible; MSIE*; Windows NT 5.0*) Opera 9.0*]
+Parent=Opera 9.0
+Platform=Win2000
+Win32=true
+
+[Mozilla/* (compatible; MSIE*; Windows NT 5.1*) Opera 9.0*]
+Parent=Opera 9.0
+Platform=WinXP
+Win32=true
+
+[Mozilla/* (compatible; MSIE*; Windows NT 5.2*) Opera 9.0*]
+Parent=Opera 9.0
+Platform=Win2003
+Win32=true
+
+[Mozilla/* (compatible; MSIE*; Windows NT 6.0*) Opera 9.0*]
+Parent=Opera 9.0
+Platform=WinVista
+Win32=true
+
+[Mozilla/* (compatible; MSIE*; Windows XP*) Opera 9.0*]
+Parent=Opera 9.0
+Platform=WinXP
+Win32=true
+
+[Mozilla/* (compatible; MSIE*; X11; FreeBSD*) Opera 9.0*]
+Parent=Opera 9.0
+Platform=FreeBSD
+
+[Mozilla/* (compatible; MSIE*; X11; Linux*) Opera 9.0*]
+Parent=Opera 9.0
+Platform=Linux
+
+[Mozilla/* (compatible; MSIE*; X11; SunOS*) Opera 9.0*]
+Parent=Opera 9.0
+Platform=SunOS
+
+[Mozilla/* (Macintosh; *Mac OS X; ?) Opera 9.0*]
+Parent=Opera 9.0
+Platform=MacOSX
+
+[Mozilla/* (Windows 2000;*) Opera 9.0*]
+Parent=Opera 9.0
+Platform=Win2000
+Win32=true
+
+[Mozilla/* (Windows 95;*) Opera 9.0*]
+Parent=Opera 9.0
+Platform=Win95
+Win32=true
+
+[Mozilla/* (Windows 98;*) Opera 9.0*]
+Parent=Opera 9.0
+Platform=Win98
+Win32=true
+
+[Mozilla/* (Windows ME;*) Opera 9.0*]
+Parent=Opera 9.0
+Platform=WinME
+Win32=true
+
+[Mozilla/* (Windows NT 4.0;*) Opera 9.0*]
+Parent=Opera 9.0
+Platform=WinNT
+Win32=true
+
+[Mozilla/* (Windows NT 5.0;*) Opera 9.0*]
+Parent=Opera 9.0
+Platform=Win2000
+Win32=true
+
+[Mozilla/* (Windows NT 5.1;*) Opera 9.0*]
+Parent=Opera 9.0
+Platform=WinXP
+Win32=true
+
+[Mozilla/* (Windows NT 5.2;*) Opera 9.0*]
+Parent=Opera 9.0
+Platform=Win2003
+Win32=true
+
+[Mozilla/* (X11; Linux*) Opera 9.0*]
+Parent=Opera 9.0
+Platform=Linux
+
+[Opera/9.0* (Linux*)*]
+Parent=Opera 9.0
+Platform=Linux
+
+[Opera/9.0* (Macintosh; *Mac OS X;*)*]
+Parent=Opera 9.0
+Platform=MacOSX
+
+[Opera/9.0* (Windows 95*)*]
+Parent=Opera 9.0
+Platform=Win95
+Win32=true
+
+[Opera/9.0* (Windows 98*)*]
+Parent=Opera 9.0
+Platform=Win98
+Win32=true
+
+[Opera/9.0* (Windows CE*)*]
+Parent=Opera 9.0
+Platform=WinCE
+Win32=true
+
+[Opera/9.0* (Windows ME*)*]
+Parent=Opera 9.0
+Platform=WinME
+Win32=true
+
+[Opera/9.0* (Windows NT 4.0*)*]
+Parent=Opera 9.0
+Platform=WinNT
+Win32=true
+
+[Opera/9.0* (Windows NT 5.0*)*]
+Parent=Opera 9.0
+Platform=Win2000
+Win32=true
+
+[Opera/9.0* (Windows NT 5.1*)*]
+Parent=Opera 9.0
+Platform=WinXP
+Win32=true
+
+[Opera/9.0* (Windows NT 5.2*)*]
+Parent=Opera 9.0
+Platform=Win2003
+Win32=true
+
+[Opera/9.0* (Windows NT 6.0*)*]
+Parent=Opera 9.0
+Platform=WinVista
+Win32=true
+
+[Opera/9.0* (Windows XP*)*]
+Parent=Opera 9.0
+Platform=WinXP
+Win32=true
+
+[Opera/9.0* (X11; FreeBSD*)*]
+Parent=Opera 9.0
+Platform=FreeBSD
+
+[Opera/9.0* (X11; Linux*)*]
+Parent=Opera 9.0
+Platform=Linux
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;; Opera 9.1
+
+[Opera 9.1]
+Parent=DefaultProperties
+Browser=Opera
+Version=9.1
+MajorVer=9
+MinorVer=1
+Frames=true
+IFrames=true
+Tables=true
+Cookies=true
+BackgroundSounds=true
+JavaApplets=true
+JavaScript=true
+CssVersion=2
+supportsCSS=true
+
+[Mozilla/* (compatible; MSIE*; Linux*) Opera 9.1*]
+Parent=Opera 9.1
+Platform=Linux
+
+[Mozilla/* (compatible; MSIE*; Mac_PowerPC Mac OS X;*) Opera 9.1*]
+Parent=Opera 9.1
+Platform=MacOSX
+
+[Mozilla/* (compatible; MSIE*; Mac_PowerPC;*) Opera 9.1*]
+Parent=Opera 9.1
+Platform=MacPPC
+
+[Mozilla/* (compatible; MSIE*; Windows 2000*) Opera 9.1*]
+Parent=Opera 9.1
+Platform=Win2000
+Win32=true
+
+[Mozilla/* (compatible; MSIE*; Windows 95*) Opera 9.1*]
+Parent=Opera 9.1
+Platform=Win95
+Win32=true
+
+[Mozilla/* (compatible; MSIE*; Windows 98*) Opera 9.1*]
+Parent=Opera 9.1
+Platform=Win98
+Win32=true
+
+[Mozilla/* (compatible; MSIE*; Windows CE*) Opera 9.1*]
+Parent=Opera 9.1
+Platform=WinCE
+Win32=true
+
+[Mozilla/* (compatible; MSIE*; Windows ME*) Opera 9.1*]
+Parent=Opera 9.1
+Platform=WinME
+Win32=true
+
+[Mozilla/* (compatible; MSIE*; Windows NT 4.0*) Opera 9.1*]
+Parent=Opera 9.1
+Platform=WinNT
+Win32=true
+
+[Mozilla/* (compatible; MSIE*; Windows NT 5.0*) Opera 9.1*]
+Parent=Opera 9.1
+Platform=Win2000
+Win32=true
+
+[Mozilla/* (compatible; MSIE*; Windows NT 5.1*) Opera 9.1*]
+Parent=Opera 9.1
+Platform=WinXP
+Win32=true
+
+[Mozilla/* (compatible; MSIE*; Windows NT 5.2*) Opera 9.1*]
+Parent=Opera 9.1
+Platform=Win2003
+Win32=true
+
+[Mozilla/* (compatible; MSIE*; Windows NT 6.0*) Opera 9.1*]
+Parent=Opera 9.1
+Platform=WinVista
+Win32=true
+
+[Mozilla/* (compatible; MSIE*; Windows XP*) Opera 9.1*]
+Parent=Opera 9.1
+Platform=WinXP
+Win32=true
+
+[Mozilla/* (compatible; MSIE*; X11; FreeBSD*) Opera 9.1*]
+Parent=Opera 9.1
+Platform=FreeBSD
+
+[Mozilla/* (compatible; MSIE*; X11; Linux*) Opera 9.1*]
+Parent=Opera 9.1
+Platform=Linux
+
+[Mozilla/* (compatible; MSIE*; X11; SunOS*) Opera 9.1*]
+Parent=Opera 9.1
+Platform=SunOS
+
+[Mozilla/* (Macintosh; *Mac OS X; ?) Opera 9.1*]
+Parent=Opera 9.1
+Platform=MacOSX
+
+[Mozilla/* (Windows 2000;*) Opera 9.1*]
+Parent=Opera 9.1
+Platform=Win2000
+Win32=true
+
+[Mozilla/* (Windows 95;*) Opera 9.1*]
+Parent=Opera 9.1
+Platform=Win95
+Win32=true
+
+[Mozilla/* (Windows 98;*) Opera 9.1*]
+Parent=Opera 9.1
+Platform=Win98
+Win32=true
+
+[Mozilla/* (Windows ME;*) Opera 9.1*]
+Parent=Opera 9.1
+Platform=WinME
+Win32=true
+
+[Mozilla/* (Windows NT 4.0;*) Opera 9.1*]
+Parent=Opera 9.1
+Platform=WinNT
+Win32=true
+
+[Mozilla/* (Windows NT 5.0;*) Opera 9.1*]
+Parent=Opera 9.1
+Platform=Win2000
+Win32=true
+
+[Mozilla/* (Windows NT 5.1;*) Opera 9.1*]
+Parent=Opera 9.1
+Platform=WinXP
+Win32=true
+
+[Mozilla/* (Windows NT 5.2;*) Opera 9.1*]
+Parent=Opera 9.1
+Platform=Win2003
+Win32=true
+
+[Mozilla/* (X11; Linux*) Opera 9.1*]
+Parent=Opera 9.1
+Platform=Linux
+
+[Opera/9.1* (Linux*)*]
+Parent=Opera 9.1
+Platform=Linux
+
+[Opera/9.1* (Macintosh; *Mac OS X;*)*]
+Parent=Opera 9.1
+Platform=MacOSX
+
+[Opera/9.1* (Windows 95*)*]
+Parent=Opera 9.1
+Platform=Win95
+Win32=true
+
+[Opera/9.1* (Windows 98*)*]
+Parent=Opera 9.1
+Platform=Win98
+Win32=true
+
+[Opera/9.1* (Windows CE*)*]
+Parent=Opera 9.1
+Platform=WinCE
+Win32=true
+
+[Opera/9.1* (Windows ME*)*]
+Parent=Opera 9.1
+Platform=WinME
+Win32=true
+
+[Opera/9.1* (Windows NT 4.0*)*]
+Parent=Opera 9.1
+Platform=WinNT
+Win32=true
+
+[Opera/9.1* (Windows NT 5.0*)*]
+Parent=Opera 9.1
+Platform=Win2000
+Win32=true
+
+[Opera/9.1* (Windows NT 5.1*)*]
+Parent=Opera 9.1
+Platform=WinXP
+Win32=true
+
+[Opera/9.1* (Windows NT 5.2*)*]
+Parent=Opera 9.1
+Platform=Win2003
+Win32=true
+
+[Opera/9.1* (Windows NT 6.0*)*]
+Parent=Opera 9.1
+Platform=WinVista
+Win32=true
+
+[Opera/9.1* (Windows XP*)*]
+Parent=Opera 9.1
+Platform=WinXP
+Win32=true
+
+[Opera/9.1* (X11; FreeBSD*)*]
+Parent=Opera 9.1
+Platform=FreeBSD
+
+[Opera/9.1* (X11; Linux*)*]
+Parent=Opera 9.1
+Platform=Linux
+
+[Opera/9.1* (X11; SunOS*)*]
+Parent=Opera 9.1
+Platform=SunOS
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;; Opera 9.2
+
+[Opera 9.2]
+Parent=DefaultProperties
+Browser=Opera
+Version=9.2
+MajorVer=9
+MinorVer=2
+Frames=true
+IFrames=true
+Tables=true
+Cookies=true
+BackgroundSounds=true
+JavaApplets=true
+JavaScript=true
+CssVersion=2
+supportsCSS=true
+
+[Mozilla/* (compatible; MSIE*; Linux*) Opera 9.2*]
+Parent=Opera 9.2
+Platform=Linux
+
+[Mozilla/* (compatible; MSIE*; Mac_PowerPC Mac OS X;*) Opera 9.2*]
+Parent=Opera 9.2
+Platform=MacOSX
+
+[Mozilla/* (compatible; MSIE*; Mac_PowerPC) Opera 9.2*]
+Parent=Opera 9.2
+Platform=MacPPC
+
+[Mozilla/* (compatible; MSIE*; Windows 2000*) Opera 9.2*]
+Parent=Opera 9.2
+Platform=Win2000
+Win32=true
+
+[Mozilla/* (compatible; MSIE*; Windows 95*) Opera 9.2*]
+Parent=Opera 9.2
+Platform=Win95
+Win32=true
+
+[Mozilla/* (compatible; MSIE*; Windows 98*) Opera 9.2*]
+Parent=Opera 9.2
+Platform=Win98
+Win32=true
+
+[Mozilla/* (compatible; MSIE*; Windows CE*) Opera 9.2*]
+Parent=Opera 9.2
+Platform=WinCE
+Win32=true
+
+[Mozilla/* (compatible; MSIE*; Windows ME*) Opera 9.2*]
+Parent=Opera 9.2
+Platform=WinME
+Win32=true
+
+[Mozilla/* (compatible; MSIE*; Windows NT 4.0*) Opera 9.2*]
+Parent=Opera 9.2
+Platform=WinNT
+Win32=true
+
+[Mozilla/* (compatible; MSIE*; Windows NT 5.0*) Opera 9.2*]
+Parent=Opera 9.2
+Platform=Win2000
+Win32=true
+
+[Mozilla/* (compatible; MSIE*; Windows NT 5.1*) Opera 9.2*]
+Parent=Opera 9.2
+Platform=WinXP
+Win32=true
+
+[Mozilla/* (compatible; MSIE*; Windows NT 5.2*) Opera 9.2*]
+Parent=Opera 9.2
+Platform=Win2003
+Win32=true
+
+[Mozilla/* (compatible; MSIE*; Windows NT 6.0*) Opera 9.2*]
+Parent=Opera 9.2
+Platform=WinVista
+Win32=true
+
+[Mozilla/* (compatible; MSIE*; Windows NT 6.1*) Opera 9.2*]
+Parent=Opera 9.2
+Platform=Win7
+
+[Mozilla/* (compatible; MSIE*; Windows XP*) Opera 9.2*]
+Parent=Opera 9.2
+Platform=WinXP
+Win32=true
+
+[Mozilla/* (compatible; MSIE*; X11; FreeBSD*) Opera 9.2*]
+Parent=Opera 9.2
+Platform=FreeBSD
+
+[Mozilla/* (compatible; MSIE*; X11; Linux*) Opera 9.2*]
+Parent=Opera 9.2
+Platform=Linux
+
+[Mozilla/* (compatible; MSIE*; X11; SunOS*) Opera 9.2*]
+Parent=Opera 9.2
+Platform=SunOS
+
+[Mozilla/* (Macintosh; *Mac OS X; ?) Opera 9.2*]
+Parent=Opera 9.2
+Platform=MacOSX
+
+[Mozilla/* (Windows 2000;*) Opera 9.2*]
+Parent=Opera 9.2
+Platform=Win2000
+Win32=true
+
+[Mozilla/* (Windows 95;*) Opera 9.2*]
+Parent=Opera 9.2
+Platform=Win95
+Win32=true
+
+[Mozilla/* (Windows 98;*) Opera 9.2*]
+Parent=Opera 9.2
+Platform=Win98
+Win32=true
+
+[Mozilla/* (Windows ME;*) Opera 9.2*]
+Parent=Opera 9.2
+Platform=WinME
+Win32=true
+
+[Mozilla/* (Windows NT 4.0;*) Opera 9.2*]
+Parent=Opera 9.2
+Platform=WinNT
+Win32=true
+
+[Mozilla/* (Windows NT 5.0;*) Opera 9.2*]
+Parent=Opera 9.2
+Platform=Win2000
+Win32=true
+
+[Mozilla/* (Windows NT 5.1;*) Opera 9.2*]
+Parent=Opera 9.2
+Platform=WinXP
+Win32=true
+
+[Mozilla/* (Windows NT 5.2;*) Opera 9.2*]
+Parent=Opera 9.2
+Platform=Win2003
+Win32=true
+
+[Mozilla/* (Windows NT 6.0;*) Opera 9.2*]
+Parent=Opera 9.2
+Platform=WinVista
+
+[Mozilla/* (Windows NT 6.1;*) Opera 9.2*]
+Parent=Opera 9.2
+Platform=Win7
+
+[Mozilla/* (X11; Linux*) Opera 9.2*]
+Parent=Opera 9.2
+Platform=Linux
+
+[Opera/9.2* (Linux*)*]
+Parent=Opera 9.2
+Platform=Linux
+
+[Opera/9.2* (Macintosh; *Mac OS X;*)*]
+Parent=Opera 9.2
+Platform=MacOSX
+
+[Opera/9.2* (Windows 95*)*]
+Parent=Opera 9.2
+Platform=Win95
+Win32=true
+
+[Opera/9.2* (Windows 98*)*]
+Parent=Opera 9.2
+Platform=Win98
+Win32=true
+
+[Opera/9.2* (Windows CE*)*]
+Parent=Opera 9.2
+Platform=WinCE
+Win32=true
+
+[Opera/9.2* (Windows ME*)*]
+Parent=Opera 9.2
+Platform=WinME
+Win32=true
+
+[Opera/9.2* (Windows NT 4.0*)*]
+Parent=Opera 9.2
+Platform=WinNT
+Win32=true
+
+[Opera/9.2* (Windows NT 5.0*)*]
+Parent=Opera 9.2
+Platform=Win2000
+Win32=true
+
+[Opera/9.2* (Windows NT 5.1*)*]
+Parent=Opera 9.2
+Platform=WinXP
+Win32=true
+
+[Opera/9.2* (Windows NT 5.2*)*]
+Parent=Opera 9.2
+Platform=Win2003
+Win32=true
+
+[Opera/9.2* (Windows NT 6.0*)*]
+Parent=Opera 9.2
+Platform=WinVista
+Win32=true
+
+[Opera/9.2* (Windows NT 6.1*)*]
+Parent=Opera 9.2
+Platform=Win7
+
+[Opera/9.2* (Windows XP*)*]
+Parent=Opera 9.2
+Platform=WinXP
+Win32=true
+
+[Opera/9.2* (X11; FreeBSD*)*]
+Parent=Opera 9.2
+Platform=FreeBSD
+
+[Opera/9.2* (X11; Linux*)*]
+Parent=Opera 9.2
+Platform=Linux
+
+[Opera/9.2* (X11; SunOS*)*]
+Parent=Opera 9.2
+Platform=SunOS
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;; Opera 9.3
+
+[Opera 9.3]
+Parent=DefaultProperties
+Browser=Opera
+Version=9.3
+MajorVer=9
+MinorVer=3
+Frames=true
+IFrames=true
+Tables=true
+Cookies=true
+BackgroundSounds=true
+JavaApplets=true
+JavaScript=true
+CssVersion=2
+supportsCSS=true
+
+[Mozilla/* (compatible; MSIE*; Linux*) Opera 9.3*]
+Parent=Opera 9.3
+Platform=Linux
+
+[Mozilla/* (compatible; MSIE*; Mac_PowerPC Mac OS X;*) Opera 9.3*]
+Parent=Opera 9.3
+Platform=MacOSX
+
+[Mozilla/* (compatible; MSIE*; Mac_PowerPC) Opera 9.3*]
+Parent=Opera 9.3
+Platform=MacPPC
+
+[Mozilla/* (compatible; MSIE*; Windows 2000*) Opera 9.3*]
+Parent=Opera 9.3
+Platform=Win2000
+Win32=true
+
+[Mozilla/* (compatible; MSIE*; Windows 95*) Opera 9.3*]
+Parent=Opera 9.3
+Platform=Win95
+Win32=true
+
+[Mozilla/* (compatible; MSIE*; Windows 98*) Opera 9.3*]
+Parent=Opera 9.3
+Platform=Win98
+Win32=true
+
+[Mozilla/* (compatible; MSIE*; Windows CE*) Opera 9.3*]
+Parent=Opera 9.3
+Platform=WinCE
+Win32=true
+
+[Mozilla/* (compatible; MSIE*; Windows ME*) Opera 9.3*]
+Parent=Opera 9.3
+Platform=WinME
+Win32=true
+
+[Mozilla/* (compatible; MSIE*; Windows NT 4.0*) Opera 9.3*]
+Parent=Opera 9.3
+Platform=WinNT
+Win32=true
+
+[Mozilla/* (compatible; MSIE*; Windows NT 5.0*) Opera 9.3*]
+Parent=Opera 9.3
+Platform=Win2000
+Win32=true
+
+[Mozilla/* (compatible; MSIE*; Windows NT 5.1*) Opera 9.3*]
+Parent=Opera 9.3
+Platform=WinXP
+Win32=true
+
+[Mozilla/* (compatible; MSIE*; Windows NT 5.2*) Opera 9.3*]
+Parent=Opera 9.3
+Platform=Win2003
+Win32=true
+
+[Mozilla/* (compatible; MSIE*; Windows NT 6.0*) Opera 9.3*]
+Parent=Opera 9.3
+Platform=WinVista
+Win32=true
+
+[Mozilla/* (compatible; MSIE*; Windows NT 6.1*) Opera 9.3*]
+Parent=Opera 9.3
+Platform=Win7
+
+[Mozilla/* (compatible; MSIE*; Windows XP*) Opera 9.3*]
+Parent=Opera 9.3
+Platform=WinXP
+Win32=true
+
+[Mozilla/* (compatible; MSIE*; X11; FreeBSD*) Opera 9.3*]
+Parent=Opera 9.3
+Platform=FreeBSD
+
+[Mozilla/* (compatible; MSIE*; X11; Linux*) Opera 9.3*]
+Parent=Opera 9.3
+Platform=Linux
+
+[Mozilla/* (compatible; MSIE*; X11; SunOS*) Opera 9.3*]
+Parent=Opera 9.3
+Platform=SunOS
+
+[Mozilla/* (Macintosh; *Mac OS X; ?) Opera 9.3*]
+Parent=Opera 9.3
+Platform=MacOSX
+
+[Mozilla/* (Windows 2000;*) Opera 9.3*]
+Parent=Opera 9.3
+Platform=Win2000
+Win32=true
+
+[Mozilla/* (Windows 95;*) Opera 9.3*]
+Parent=Opera 9.3
+Platform=Win95
+Win32=true
+
+[Mozilla/* (Windows 98;*) Opera 9.3*]
+Parent=Opera 9.3
+Platform=Win98
+Win32=true
+
+[Mozilla/* (Windows ME;*) Opera 9.3*]
+Parent=Opera 9.3
+Platform=WinME
+Win32=true
+
+[Mozilla/* (Windows NT 4.0;*) Opera 9.3*]
+Parent=Opera 9.3
+Platform=WinNT
+Win32=true
+
+[Mozilla/* (Windows NT 5.0;*) Opera 9.3*]
+Parent=Opera 9.3
+Platform=Win2000
+Win32=true
+
+[Mozilla/* (Windows NT 5.1;*) Opera 9.3*]
+Parent=Opera 9.3
+Platform=WinXP
+Win32=true
+
+[Mozilla/* (Windows NT 5.2;*) Opera 9.3*]
+Parent=Opera 9.3
+Platform=Win2003
+Win32=true
+
+[Mozilla/* (Windows NT 6.0;*) Opera 9.3*]
+Parent=Opera 9.3
+Platform=WinVista
+
+[Mozilla/* (Windows NT 6.1;*) Opera 9.3*]
+Parent=Opera 9.3
+Platform=Win7
+
+[Mozilla/* (X11; Linux*) Opera 9.3*]
+Parent=Opera 9.3
+Platform=Linux
+
+[Opera/9.3* (Linux*)*]
+Parent=Opera 9.3
+Platform=Linux
+
+[Opera/9.3* (Macintosh; *Mac OS X;*)*]
+Parent=Opera 9.3
+Platform=MacOSX
+
+[Opera/9.3* (Windows 95*)*]
+Parent=Opera 9.3
+Platform=Win95
+Win32=true
+
+[Opera/9.3* (Windows 98*)*]
+Parent=Opera 9.3
+Platform=Win98
+Win32=true
+
+[Opera/9.3* (Windows CE*)*]
+Parent=Opera 9.3
+Platform=WinCE
+Win32=true
+
+[Opera/9.3* (Windows ME*)*]
+Parent=Opera 9.3
+Platform=WinME
+Win32=true
+
+[Opera/9.3* (Windows NT 4.0*)*]
+Parent=Opera 9.3
+Platform=WinNT
+Win32=true
+
+[Opera/9.3* (Windows NT 5.0*)*]
+Parent=Opera 9.3
+Platform=Win2000
+Win32=true
+
+[Opera/9.3* (Windows NT 5.1*)*]
+Parent=Opera 9.3
+Platform=WinXP
+Win32=true
+
+[Opera/9.3* (Windows NT 5.2*)*]
+Parent=Opera 9.3
+Platform=Win2003
+Win32=true
+
+[Opera/9.3* (Windows NT 6.0*)*]
+Parent=Opera 9.3
+Platform=WinVista
+Win32=true
+
+[Opera/9.3* (Windows NT 6.1*)*]
+Parent=Opera 9.3
+Platform=Win7
+
+[Opera/9.3* (Windows XP*)*]
+Parent=Opera 9.3
+Platform=WinXP
+Win32=true
+
+[Opera/9.3* (X11; FreeBSD*)*]
+Parent=Opera 9.3
+Platform=FreeBSD
+
+[Opera/9.3* (X11; Linux*)*]
+Parent=Opera 9.3
+Platform=Linux
+
+[Opera/9.3* (X11; SunOS*)*]
+Parent=Opera 9.3
+Platform=SunOS
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;; Opera 9.4
+
+[Opera 9.4]
+Parent=DefaultProperties
+Browser=Opera
+Version=9.4
+MajorVer=9
+MinorVer=4
+Frames=true
+IFrames=true
+Tables=true
+Cookies=true
+BackgroundSounds=true
+JavaApplets=true
+JavaScript=true
+CssVersion=2
+supportsCSS=true
+
+[Mozilla/* (compatible; MSIE*; Linux*) Opera 9.4*]
+Parent=Opera 9.4
+Platform=Linux
+
+[Mozilla/* (compatible; MSIE*; Mac_PowerPC Mac OS X;*) Opera 9.4*]
+Parent=Opera 9.4
+Platform=MacOSX
+
+[Mozilla/* (compatible; MSIE*; Mac_PowerPC) Opera 9.4*]
+Parent=Opera 9.4
+Platform=MacPPC
+
+[Mozilla/* (compatible; MSIE*; Windows 2000*) Opera 9.4*]
+Parent=Opera 9.4
+Platform=Win2000
+Win32=true
+
+[Mozilla/* (compatible; MSIE*; Windows 95*) Opera 9.4*]
+Parent=Opera 9.4
+Platform=Win95
+Win32=true
+
+[Mozilla/* (compatible; MSIE*; Windows 98*) Opera 9.4*]
+Parent=Opera 9.4
+Platform=Win98
+Win32=true
+
+[Mozilla/* (compatible; MSIE*; Windows CE*) Opera 9.4*]
+Parent=Opera 9.4
+Platform=WinCE
+Win32=true
+
+[Mozilla/* (compatible; MSIE*; Windows ME*) Opera 9.4*]
+Parent=Opera 9.4
+Platform=WinME
+Win32=true
+
+[Mozilla/* (compatible; MSIE*; Windows NT 4.0*) Opera 9.4*]
+Parent=Opera 9.4
+Platform=WinNT
+Win32=true
+
+[Mozilla/* (compatible; MSIE*; Windows NT 5.0*) Opera 9.4*]
+Parent=Opera 9.4
+Platform=Win2000
+Win32=true
+
+[Mozilla/* (compatible; MSIE*; Windows NT 5.1*) Opera 9.4*]
+Parent=Opera 9.4
+Platform=WinXP
+Win32=true
+
+[Mozilla/* (compatible; MSIE*; Windows NT 5.2*) Opera 9.4*]
+Parent=Opera 9.4
+Platform=Win2003
+Win32=true
+
+[Mozilla/* (compatible; MSIE*; Windows NT 6.0*) Opera 9.4*]
+Parent=Opera 9.4
+Platform=WinVista
+Win32=true
+
+[Mozilla/* (compatible; MSIE*; Windows NT 6.1*) Opera 9.4*]
+Parent=Opera 9.4
+Platform=Win7
+
+[Mozilla/* (compatible; MSIE*; Windows XP*) Opera 9.4*]
+Parent=Opera 9.4
+Platform=WinXP
+Win32=true
+
+[Mozilla/* (compatible; MSIE*; X11; FreeBSD*) Opera 9.4*]
+Parent=Opera 9.4
+Platform=FreeBSD
+
+[Mozilla/* (compatible; MSIE*; X11; Linux*) Opera 9.4*]
+Parent=Opera 9.4
+Platform=Linux
+
+[Mozilla/* (compatible; MSIE*; X11; SunOS*) Opera 9.4*]
+Parent=Opera 9.4
+Platform=SunOS
+
+[Mozilla/* (Macintosh; *Mac OS X; ?) Opera 9.4*]
+Parent=Opera 9.4
+Platform=MacOSX
+
+[Mozilla/* (Windows 2000;*) Opera 9.4*]
+Parent=Opera 9.4
+Platform=Win2000
+Win32=true
+
+[Mozilla/* (Windows 95;*) Opera 9.4*]
+Parent=Opera 9.4
+Platform=Win95
+Win32=true
+
+[Mozilla/* (Windows 98;*) Opera 9.4*]
+Parent=Opera 9.4
+Platform=Win98
+Win32=true
+
+[Mozilla/* (Windows ME;*) Opera 9.4*]
+Parent=Opera 9.4
+Platform=WinME
+Win32=true
+
+[Mozilla/* (Windows NT 4.0;*) Opera 9.4*]
+Parent=Opera 9.4
+Platform=WinNT
+Win32=true
+
+[Mozilla/* (Windows NT 5.0;*) Opera 9.4*]
+Parent=Opera 9.4
+Platform=Win2000
+Win32=true
+
+[Mozilla/* (Windows NT 5.1;*) Opera 9.4*]
+Parent=Opera 9.4
+Platform=WinXP
+Win32=true
+
+[Mozilla/* (Windows NT 5.2;*) Opera 9.4*]
+Parent=Opera 9.4
+Platform=Win2003
+Win32=true
+
+[Mozilla/* (Windows NT 6.0;*) Opera 9.4*]
+Parent=Opera 9.4
+Platform=WinVista
+
+[Mozilla/* (Windows NT 6.1;*) Opera 9.4*]
+Parent=Opera 9.4
+Platform=Win7
+
+[Mozilla/* (X11; Linux*) Opera 9.4*]
+Parent=Opera 9.4
+Platform=Linux
+
+[Opera/9.4* (Linux*)*]
+Parent=Opera 9.4
+Platform=Linux
+
+[Opera/9.4* (Macintosh; *Mac OS X;*)*]
+Parent=Opera 9.4
+Platform=MacOSX
+
+[Opera/9.4* (Windows 95*)*]
+Parent=Opera 9.4
+Platform=Win95
+Win32=true
+
+[Opera/9.4* (Windows 98*)*]
+Parent=Opera 9.4
+Platform=Win98
+Win32=true
+
+[Opera/9.4* (Windows CE*)*]
+Parent=Opera 9.4
+Platform=WinCE
+Win32=true
+
+[Opera/9.4* (Windows ME*)*]
+Parent=Opera 9.4
+Platform=WinME
+Win32=true
+
+[Opera/9.4* (Windows NT 4.0*)*]
+Parent=Opera 9.4
+Platform=WinNT
+Win32=true
+
+[Opera/9.4* (Windows NT 5.0*)*]
+Parent=Opera 9.4
+Platform=Win2000
+Win32=true
+
+[Opera/9.4* (Windows NT 5.1*)*]
+Parent=Opera 9.4
+Platform=WinXP
+Win32=true
+
+[Opera/9.4* (Windows NT 5.2*)*]
+Parent=Opera 9.4
+Platform=Win2003
+Win32=true
+
+[Opera/9.4* (Windows NT 6.0*)*]
+Parent=Opera 9.4
+Platform=WinVista
+Win32=true
+
+[Opera/9.4* (Windows NT 6.1*)*]
+Parent=Opera 9.4
+Platform=Win7
+
+[Opera/9.4* (Windows XP*)*]
+Parent=Opera 9.4
+Platform=WinXP
+Win32=true
+
+[Opera/9.4* (X11; FreeBSD*)*]
+Parent=Opera 9.4
+Platform=FreeBSD
+
+[Opera/9.4* (X11; Linux*)*]
+Parent=Opera 9.4
+Platform=Linux
+
+[Opera/9.4* (X11; SunOS*)*]
+Parent=Opera 9.4
+Platform=SunOS
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;; Opera 9.5
+
+[Opera 9.5]
+Parent=DefaultProperties
+Browser=Opera
+Version=9.5
+MajorVer=9
+MinorVer=5
+Frames=true
+IFrames=true
+Tables=true
+Cookies=true
+BackgroundSounds=true
+JavaApplets=true
+JavaScript=true
+CssVersion=2
+supportsCSS=true
+
+[Mozilla/* (compatible; MSIE*; Linux*) Opera 9.5*]
+Parent=Opera 9.5
+Platform=Linux
+
+[Mozilla/* (compatible; MSIE*; Mac_PowerPC Mac OS X;*) Opera 9.5*]
+Parent=Opera 9.5
+Platform=MacOSX
+
+[Mozilla/* (compatible; MSIE*; Mac_PowerPC) Opera 9.5*]
+Parent=Opera 9.5
+Platform=MacPPC
+
+[Mozilla/* (compatible; MSIE*; Windows 2000*) Opera 9.5*]
+Parent=Opera 9.5
+Platform=Win2000
+Win32=true
+
+[Mozilla/* (compatible; MSIE*; Windows 95*) Opera 9.5*]
+Parent=Opera 9.5
+Platform=Win95
+Win32=true
+
+[Mozilla/* (compatible; MSIE*; Windows 98*) Opera 9.5*]
+Parent=Opera 9.5
+Platform=Win98
+Win32=true
+
+[Mozilla/* (compatible; MSIE*; Windows CE*) Opera 9.5*]
+Parent=Opera 9.5
+Platform=WinCE
+Win32=true
+
+[Mozilla/* (compatible; MSIE*; Windows ME*) Opera 9.5*]
+Parent=Opera 9.5
+Platform=WinME
+Win32=true
+
+[Mozilla/* (compatible; MSIE*; Windows NT 4.0*) Opera 9.5*]
+Parent=Opera 9.5
+Platform=WinNT
+Win32=true
+
+[Mozilla/* (compatible; MSIE*; Windows NT 5.0*) Opera 9.5*]
+Parent=Opera 9.5
+Platform=Win2000
+Win32=true
+
+[Mozilla/* (compatible; MSIE*; Windows NT 5.1*) Opera 9.5*]
+Parent=Opera 9.5
+Platform=WinXP
+Win32=true
+
+[Mozilla/* (compatible; MSIE*; Windows NT 5.2*) Opera 9.5*]
+Parent=Opera 9.5
+Platform=Win2003
+Win32=true
+
+[Mozilla/* (compatible; MSIE*; Windows NT 6.0*) Opera 9.5*]
+Parent=Opera 9.5
+Platform=WinVista
+Win32=true
+
+[Mozilla/* (compatible; MSIE*; Windows NT 6.1*) Opera 9.5*]
+Parent=Opera 9.5
+Platform=Win7
+
+[Mozilla/* (compatible; MSIE*; Windows XP*) Opera 9.5*]
+Parent=Opera 9.5
+Platform=WinXP
+Win32=true
+
+[Mozilla/* (compatible; MSIE*; X11; FreeBSD*) Opera 9.5*]
+Parent=Opera 9.5
+Platform=FreeBSD
+
+[Mozilla/* (compatible; MSIE*; X11; Linux*) Opera 9.5*]
+Parent=Opera 9.5
+Platform=Linux
+
+[Mozilla/* (compatible; MSIE*; X11; SunOS*) Opera 9.5*]
+Parent=Opera 9.5
+Platform=SunOS
+
+[Mozilla/* (Macintosh; *Mac OS X; ?) Opera 9.5*]
+Parent=Opera 9.5
+Platform=MacOSX
+
+[Mozilla/* (Windows 2000;*) Opera 9.5*]
+Parent=Opera 9.5
+Platform=Win2000
+Win32=true
+
+[Mozilla/* (Windows 95;*) Opera 9.5*]
+Parent=Opera 9.5
+Platform=Win95
+Win32=true
+
+[Mozilla/* (Windows 98;*) Opera 9.5*]
+Parent=Opera 9.5
+Platform=Win98
+Win32=true
+
+[Mozilla/* (Windows ME;*) Opera 9.5*]
+Parent=Opera 9.5
+Platform=WinME
+Win32=true
+
+[Mozilla/* (Windows NT 4.0;*) Opera 9.5*]
+Parent=Opera 9.5
+Platform=WinNT
+Win32=true
+
+[Mozilla/* (Windows NT 5.0;*) Opera 9.5*]
+Parent=Opera 9.5
+Platform=Win2000
+Win32=true
+
+[Mozilla/* (Windows NT 5.1;*) Opera 9.5*]
+Parent=Opera 9.5
+Platform=WinXP
+Win32=true
+
+[Mozilla/* (Windows NT 5.2;*) Opera 9.5*]
+Parent=Opera 9.5
+Platform=Win2003
+Win32=true
+
+[Mozilla/* (Windows NT 6.0;*) Opera 9.5*]
+Parent=Opera 9.5
+Platform=WinVista
+
+[Mozilla/* (Windows NT 6.1;*) Opera 9.5*]
+Parent=Opera 9.5
+Platform=Win7
+
+[Mozilla/* (X11; Linux*) Opera 9.5*]
+Parent=Opera 9.5
+Platform=Linux
+
+[Opera/9.5* (Linux*)*]
+Parent=Opera 9.5
+Platform=Linux
+
+[Opera/9.5* (Macintosh; *Mac OS X;*)*]
+Parent=Opera 9.5
+Platform=MacOSX
+
+[Opera/9.5* (Windows 95*)*]
+Parent=Opera 9.5
+Platform=Win95
+Win32=true
+
+[Opera/9.5* (Windows 98*)*]
+Parent=Opera 9.5
+Platform=Win98
+Win32=true
+
+[Opera/9.5* (Windows CE*)*]
+Parent=Opera 9.5
+Platform=WinCE
+Win32=true
+
+[Opera/9.5* (Windows ME*)*]
+Parent=Opera 9.5
+Platform=WinME
+Win32=true
+
+[Opera/9.5* (Windows NT 4.0*)*]
+Parent=Opera 9.5
+Platform=WinNT
+Win32=true
+
+[Opera/9.5* (Windows NT 5.0*)*]
+Parent=Opera 9.5
+Platform=Win2000
+Win32=true
+
+[Opera/9.5* (Windows NT 5.1*)*]
+Parent=Opera 9.5
+Platform=WinXP
+Win32=true
+
+[Opera/9.5* (Windows NT 5.2*)*]
+Parent=Opera 9.5
+Platform=Win2003
+Win32=true
+
+[Opera/9.5* (Windows NT 6.0*)*]
+Parent=Opera 9.5
+Platform=WinVista
+Win32=true
+
+[Opera/9.5* (Windows NT 6.1*)*]
+Parent=Opera 9.5
+Platform=Win7
+
+[Opera/9.5* (Windows XP*)*]
+Parent=Opera 9.5
+Platform=WinXP
+Win32=true
+
+[Opera/9.5* (X11; FreeBSD*)*]
+Parent=Opera 9.5
+Platform=FreeBSD
+
+[Opera/9.5* (X11; Linux*)*]
+Parent=Opera 9.5
+Platform=Linux
+
+[Opera/9.5* (X11; SunOS*)*]
+Parent=Opera 9.5
+Platform=SunOS
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;; Opera 9.6
+
+[Opera 9.6]
+Parent=DefaultProperties
+Browser=Opera
+Version=9.6
+MajorVer=9
+MinorVer=6
+Frames=true
+IFrames=true
+Tables=true
+Cookies=true
+BackgroundSounds=true
+JavaApplets=true
+JavaScript=true
+CssVersion=2
+supportsCSS=true
+
+[Mozilla/* (compatible; MSIE*; Linux*) Opera 9.6*]
+Parent=Opera 9.6
+Platform=Linux
+
+[Mozilla/* (compatible; MSIE*; Mac_PowerPC Mac OS X;*) Opera 9.6*]
+Parent=Opera 9.6
+Platform=MacOSX
+
+[Mozilla/* (compatible; MSIE*; Mac_PowerPC) Opera 9.6*]
+Parent=Opera 9.6
+Platform=MacPPC
+
+[Mozilla/* (compatible; MSIE*; Windows 2000*) Opera 9.6*]
+Parent=Opera 9.6
+Platform=Win2000
+Win32=true
+
+[Mozilla/* (compatible; MSIE*; Windows 95*) Opera 9.6*]
+Parent=Opera 9.6
+Platform=Win95
+Win32=true
+
+[Mozilla/* (compatible; MSIE*; Windows 98*) Opera 9.6*]
+Parent=Opera 9.6
+Platform=Win98
+Win32=true
+
+[Mozilla/* (compatible; MSIE*; Windows CE*) Opera 9.6*]
+Parent=Opera 9.6
+Platform=WinCE
+Win32=true
+
+[Mozilla/* (compatible; MSIE*; Windows ME*) Opera 9.6*]
+Parent=Opera 9.6
+Platform=WinME
+Win32=true
+
+[Mozilla/* (compatible; MSIE*; Windows NT 4.0*) Opera 9.6*]
+Parent=Opera 9.6
+Platform=WinNT
+Win32=true
+
+[Mozilla/* (compatible; MSIE*; Windows NT 5.0*) Opera 9.6*]
+Parent=Opera 9.6
+Platform=Win2000
+Win32=true
+
+[Mozilla/* (compatible; MSIE*; Windows NT 5.1*) Opera 9.6*]
+Parent=Opera 9.6
+Platform=WinXP
+Win32=true
+
+[Mozilla/* (compatible; MSIE*; Windows NT 5.2*) Opera 9.6*]
+Parent=Opera 9.6
+Platform=Win2003
+Win32=true
+
+[Mozilla/* (compatible; MSIE*; Windows NT 6.0*) Opera 9.6*]
+Parent=Opera 9.6
+Platform=WinVista
+Win32=true
+
+[Mozilla/* (compatible; MSIE*; Windows NT 6.1*) Opera 9.6*]
+Parent=Opera 9.6
+Platform=Win7
+
+[Mozilla/* (compatible; MSIE*; Windows XP*) Opera 9.6*]
+Parent=Opera 9.6
+Platform=WinXP
+Win32=true
+
+[Mozilla/* (compatible; MSIE*; X11; FreeBSD*) Opera 9.6*]
+Parent=Opera 9.6
+Platform=FreeBSD
+
+[Mozilla/* (compatible; MSIE*; X11; Linux*) Opera 9.6*]
+Parent=Opera 9.6
+Platform=Linux
+
+[Mozilla/* (compatible; MSIE*; X11; SunOS*) Opera 9.6*]
+Parent=Opera 9.6
+Platform=SunOS
+
+[Mozilla/* (Macintosh; *Mac OS X; ?) Opera 9.6*]
+Parent=Opera 9.6
+Platform=MacOSX
+
+[Mozilla/* (Windows 2000;*) Opera 9.6*]
+Parent=Opera 9.6
+Platform=Win2000
+Win32=true
+
+[Mozilla/* (Windows 95;*) Opera 9.6*]
+Parent=Opera 9.6
+Platform=Win95
+Win32=true
+
+[Mozilla/* (Windows 98;*) Opera 9.6*]
+Parent=Opera 9.6
+Platform=Win98
+Win32=true
+
+[Mozilla/* (Windows ME;*) Opera 9.6*]
+Parent=Opera 9.6
+Platform=WinME
+Win32=true
+
+[Mozilla/* (Windows NT 4.0;*) Opera 9.6*]
+Parent=Opera 9.6
+Platform=WinNT
+Win32=true
+
+[Mozilla/* (Windows NT 5.0;*) Opera 9.6*]
+Parent=Opera 9.6
+Platform=Win2000
+Win32=true
+
+[Mozilla/* (Windows NT 5.1;*) Opera 9.6*]
+Parent=Opera 9.6
+Platform=WinXP
+Win32=true
+
+[Mozilla/* (Windows NT 5.2;*) Opera 9.6*]
+Parent=Opera 9.6
+Platform=Win2003
+Win32=true
+
+[Mozilla/* (Windows NT 6.0;*) Opera 9.6*]
+Parent=Opera 9.6
+Platform=WinVista
+
+[Mozilla/* (Windows NT 6.1;*) Opera 9.6*]
+Parent=Opera 9.6
+Platform=Win7
+
+[Mozilla/* (X11; Linux*) Opera 9.6*]
+Parent=Opera 9.6
+Platform=Linux
+
+[Opera/9.6* (Linux*)*]
+Parent=Opera 9.6
+Platform=Linux
+
+[Opera/9.6* (Macintosh; *Mac OS X;*)*]
+Parent=Opera 9.6
+Platform=MacOSX
+
+[Opera/9.6* (Windows 95*)*]
+Parent=Opera 9.6
+Platform=Win95
+Win32=true
+
+[Opera/9.6* (Windows 98*)*]
+Parent=Opera 9.6
+Platform=Win98
+Win32=true
+
+[Opera/9.6* (Windows CE*)*]
+Parent=Opera 9.6
+Platform=WinCE
+Win32=true
+
+[Opera/9.6* (Windows ME*)*]
+Parent=Opera 9.6
+Platform=WinME
+Win32=true
+
+[Opera/9.6* (Windows NT 4.0*)*]
+Parent=Opera 9.6
+Platform=WinNT
+Win32=true
+
+[Opera/9.6* (Windows NT 5.0*)*]
+Parent=Opera 9.6
+Platform=Win2000
+Win32=true
+
+[Opera/9.6* (Windows NT 5.1*)*]
+Parent=Opera 9.6
+Platform=WinXP
+Win32=true
+
+[Opera/9.6* (Windows NT 5.2*)*]
+Parent=Opera 9.6
+Platform=Win2003
+Win32=true
+
+[Opera/9.6* (Windows NT 6.0*)*]
+Parent=Opera 9.6
+Platform=WinVista
+Win32=true
+
+[Opera/9.6* (Windows NT 6.1*)*]
+Parent=Opera 9.6
+Platform=Win7
+
+[Opera/9.6* (Windows XP*)*]
+Parent=Opera 9.6
+Platform=WinXP
+Win32=true
+
+[Opera/9.6* (X11; FreeBSD*)*]
+Parent=Opera 9.6
+Platform=FreeBSD
+
+[Opera/9.6* (X11; Linux*)*]
+Parent=Opera 9.6
+Platform=Linux
+
+[Opera/9.6* (X11; SunOS*)*]
+Parent=Opera 9.6
+Platform=SunOS
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;; Netscape 4.0
+
+[Netscape 4.0]
+Parent=DefaultProperties
+Browser=Netscape
+Version=4.0
+MajorVer=4
+Frames=true
+Tables=true
+Cookies=true
+JavaApplets=true
+JavaScript=true
+CssVersion=1
+supportsCSS=true
+
+[Mozilla/4.0*(Macintosh*]
+Parent=Netscape 4.0
+Version=4.03
+MinorVer=03
+Platform=MacPPC
+
+[Mozilla/4.0*(Win95;*]
+Parent=Netscape 4.0
+Platform=Win95
+
+[Mozilla/4.0*(Win98;*]
+Parent=Netscape 4.0
+Version=4.03
+MinorVer=03
+Platform=Win98
+
+[Mozilla/4.0*(WinNT*]
+Parent=Netscape 4.0
+Version=4.03
+MinorVer=03
+Platform=WinNT
+
+[Mozilla/4.0*(X11;*)]
+Parent=Netscape 4.0
+Platform=Linux
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;; Netscape 4.5
+
+[Netscape 4.5]
+Parent=DefaultProperties
+Browser=Netscape
+Version=4.5
+MajorVer=4
+MinorVer=5
+Frames=true
+Tables=true
+Cookies=true
+JavaApplets=true
+JavaScript=true
+CssVersion=1
+supportsCSS=true
+
+[Mozilla/4.5*(Macintosh; ?; PPC)]
+Parent=Netscape 4.5
+Platform=MacPPC
+
+[Mozilla/4.5*(Win2000; ?)]
+Parent=Netscape 4.5
+Platform=Win2000
+
+[Mozilla/4.5*(Win95; ?)]
+Parent=Netscape 4.5
+Platform=Win95
+
+[Mozilla/4.5*(Win98; ?)]
+Parent=Netscape 4.5
+Platform=Win98
+
+[Mozilla/4.5*(WinME; ?)]
+Parent=Netscape 4.5
+Platform=WinME
+
+[Mozilla/4.5*(WinNT; ?)]
+Parent=Netscape 4.5
+Platform=WinNT
+
+[Mozilla/4.5*(WinXP; ?)]
+Parent=Netscape 4.5
+Platform=WinXP
+
+[Mozilla/4.5*(X11*)]
+Parent=Netscape 4.5
+Platform=Linux
+
+[Mozilla/4.51*(Macintosh; ?; PPC)]
+Parent=Netscape 4.5
+Version=4.51
+MinorVer=51
+
+[Mozilla/4.51*(Win2000; ?)]
+Parent=Netscape 4.5
+Version=4.51
+MinorVer=51
+Platform=Win2000
+
+[Mozilla/4.51*(Win95; ?)]
+Parent=Netscape 4.5
+Version=4.51
+MinorVer=51
+Platform=Win95
+
+[Mozilla/4.51*(Win98; ?)]
+Parent=Netscape 4.5
+Version=4.51
+MinorVer=51
+Platform=Win98
+
+[Mozilla/4.51*(WinME; ?)]
+Parent=Netscape 4.5
+Version=4.51
+MinorVer=51
+Platform=WinME
+
+[Mozilla/4.51*(WinNT; ?)]
+Parent=Netscape 4.5
+Version=4.51
+MinorVer=51
+Platform=WinNT
+
+[Mozilla/4.51*(WinXP; ?)]
+Parent=Netscape 4.5
+Version=4.51
+MinorVer=51
+Platform=WinXP
+
+[Mozilla/4.51*(X11*)]
+Parent=Netscape 4.5
+Version=4.51
+MinorVer=51
+Platform=Linux
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;; Netscape 4.6
+
+[Netscape 4.6]
+Parent=DefaultProperties
+Browser=Netscape
+Version=4.6
+MajorVer=4
+MinorVer=6
+Frames=true
+Tables=true
+Cookies=true
+JavaApplets=true
+JavaScript=true
+CssVersion=1
+supportsCSS=true
+
+[Mozilla/4.6 * (OS/2; ?)]
+Parent=Netscape 4.6
+Platform=OS/2
+
+[Mozilla/4.6*(Macintosh; ?; PPC)]
+Parent=Netscape 4.6
+Platform=MacPPC
+
+[Mozilla/4.6*(Win95; ?)]
+Parent=Netscape 4.6
+Platform=Win95
+
+[Mozilla/4.6*(Win98; ?)]
+Parent=Netscape 4.6
+Platform=Win98
+
+[Mozilla/4.6*(WinNT; ?)]
+Parent=Netscape 4.6
+Platform=WinNT
+
+[Mozilla/4.61*(Macintosh; ?; PPC)]
+Parent=Netscape 4.6
+Version=4.61
+MajorVer=4
+MinorVer=61
+Platform=MacPPC
+
+[Mozilla/4.61*(OS/2; ?)]
+Parent=Netscape 4.6
+Version=4.61
+MajorVer=4
+MinorVer=61
+Platform=OS/2
+
+[Mozilla/4.61*(Win95; ?)]
+Parent=Netscape 4.6
+Version=4.61
+MajorVer=4
+MinorVer=61
+Platform=Win95
+
+[Mozilla/4.61*(Win98; ?)]
+Parent=Netscape 4.6
+Version=4.61
+Platform=Win98
+
+[Mozilla/4.61*(WinNT; ?)]
+Parent=Netscape 4.6
+Version=4.61
+MajorVer=4
+MinorVer=61
+Platform=WinNT
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;; Netscape 4.7
+
+[Netscape 4.7]
+Parent=DefaultProperties
+Browser=Netscape
+Version=4.7
+MajorVer=4
+MinorVer=7
+Frames=true
+Tables=true
+Cookies=true
+JavaApplets=true
+JavaScript=true
+CssVersion=1
+supportsCSS=true
+
+[Mozilla/4.7 * (Win2000; ?)]
+Parent=Netscape 4.7
+Platform=Win2000
+
+[Mozilla/4.7*(Macintosh; ?; PPC)*]
+Parent=Netscape 4.7
+MinorVer=7
+Platform=MacPPC
+
+[Mozilla/4.7*(Win95; ?)*]
+Parent=Netscape 4.7
+MinorVer=7
+Platform=Win95
+
+[Mozilla/4.7*(Win98; ?)*]
+Parent=Netscape 4.7
+MinorVer=7
+Platform=Win98
+
+[Mozilla/4.7*(Windows NT 4.0; ?)*]
+Parent=Netscape 4.7
+MinorVer=7
+Platform=WinNT
+Win32=true
+
+[Mozilla/4.7*(Windows NT 5.0; ?)*]
+Parent=Netscape 4.7
+MinorVer=7
+Platform=Win2000
+Win32=true
+
+[Mozilla/4.7*(Windows NT 5.1; ?)*]
+Parent=Netscape 4.7
+MinorVer=7
+Platform=WinXP
+Win32=true
+
+[Mozilla/4.7*(WinNT; ?)*]
+Parent=Netscape 4.7
+Platform=WinNT
+
+[Mozilla/4.7*(X11*)*]
+Parent=Netscape 4.7
+Platform=Linux
+
+[Mozilla/4.7*(X11; ?; SunOS*)*]
+Parent=Netscape 4.7
+Platform=SunOS
+
+[Mozilla/4.71*(Macintosh; ?; PPC)*]
+Parent=Netscape 4.7
+Version=4.71
+MinorVer=71
+Platform=MacPPC
+
+[Mozilla/4.71*(Win95; ?)*]
+Parent=Netscape 4.7
+Version=4.71
+MinorVer=71
+Platform=Win95
+
+[Mozilla/4.71*(Win98; ?)*]
+Parent=Netscape 4.7
+Version=4.71
+MinorVer=71
+Platform=Win98
+
+[Mozilla/4.71*(Windows NT 4.0; ?)*]
+Parent=Netscape 4.7
+Version=4.71
+MinorVer=71
+Platform=WinNT
+Win32=true
+
+[Mozilla/4.71*(Windows NT 5.0; ?)*]
+Parent=Netscape 4.7
+Version=4.71
+MinorVer=71
+Platform=Win2000
+Win32=true
+
+[Mozilla/4.71*(Windows NT 5.1; ?)*]
+Parent=Netscape 4.7
+Version=4.71
+MinorVer=71
+Platform=WinXP
+Win32=true
+
+[Mozilla/4.71*(WinNT; ?)*]
+Parent=Netscape 4.7
+Version=4.71
+MinorVer=71
+Platform=WinNT
+
+[Mozilla/4.71*(X11*)*]
+Parent=Netscape 4.7
+Version=4.71
+MinorVer=71
+Platform=Linux
+
+[Mozilla/4.71*(X11; ?; SunOS*)*]
+Parent=Netscape 4.7
+Version=4.71
+MinorVer=71
+Platform=SunOS
+
+[Mozilla/4.72*(Macintosh; ?; PPC)*]
+Parent=Netscape 4.7
+MinorVer=72
+Platform=MacPPC
+
+[Mozilla/4.72*(Win95; ?)*]
+Parent=Netscape 4.7
+MinorVer=72
+Platform=Win95
+
+[Mozilla/4.72*(Win98; ?)*]
+Parent=Netscape 4.7
+MinorVer=72
+Platform=Win98
+
+[Mozilla/4.72*(Windows NT 4.0; ?)*]
+Parent=Netscape 4.7
+MinorVer=72
+Platform=WinNT
+Win32=true
+
+[Mozilla/4.72*(Windows NT 5.0; ?)*]
+Parent=Netscape 4.7
+MinorVer=72
+Platform=Win2000
+Win32=true
+
+[Mozilla/4.72*(Windows NT 5.1; ?)*]
+Parent=Netscape 4.7
+MinorVer=72
+Platform=WinXP
+Win32=true
+
+[Mozilla/4.72*(WinNT; ?)*]
+Parent=Netscape 4.7
+MinorVer=72
+Platform=WinNT
+
+[Mozilla/4.72*(X11*)*]
+Parent=Netscape 4.7
+MinorVer=72
+Platform=Linux
+
+[Mozilla/4.72*(X11; ?; SunOS*)*]
+Parent=Netscape 4.7
+MinorVer=72
+Platform=SunOS
+
+[Mozilla/4.73*(Macintosh; ?; PPC)*]
+Parent=Netscape 4.7
+MinorVer=73
+Platform=MacPPC
+
+[Mozilla/4.73*(Win95; ?)*]
+Parent=Netscape 4.7
+MinorVer=73
+Platform=Win95
+
+[Mozilla/4.73*(Win98; ?)*]
+Parent=Netscape 4.7
+MinorVer=73
+Platform=Win98
+
+[Mozilla/4.73*(Windows NT 4.0; ?)*]
+Parent=Netscape 4.7
+MinorVer=73
+Platform=WinNT
+Win32=true
+
+[Mozilla/4.73*(Windows NT 5.0; ?)*]
+Parent=Netscape 4.7
+MinorVer=73
+Platform=Win2000
+Win32=true
+
+[Mozilla/4.73*(Windows NT 5.1; ?)*]
+Parent=Netscape 4.7
+MinorVer=73
+Platform=WinXP
+Win32=true
+
+[Mozilla/4.73*(WinNT; ?)*]
+Parent=Netscape 4.7
+MinorVer=73
+Platform=WinNT
+
+[Mozilla/4.73*(X11*)*]
+Parent=Netscape 4.7
+MinorVer=73
+Platform=Linux
+
+[Mozilla/4.73*(X11; ?; SunOS*)*]
+Parent=Netscape 4.7
+MinorVer=73
+Platform=SunOS
+
+[Mozilla/4.74*(Macintosh; ?; PPC)*]
+Parent=Netscape 4.7
+MinorVer=74
+Platform=MacPPC
+
+[Mozilla/4.74*(Win95; ?)*]
+Parent=Netscape 4.7
+MinorVer=74
+Platform=Win95
+
+[Mozilla/4.74*(Win98; ?)*]
+Parent=Netscape 4.7
+MinorVer=74
+Platform=Win98
+
+[Mozilla/4.74*(Windows NT 4.0; ?)*]
+Parent=Netscape 4.7
+MinorVer=74
+Platform=WinNT
+Win32=true
+
+[Mozilla/4.74*(Windows NT 5.0; ?)*]
+Parent=Netscape 4.7
+MinorVer=74
+Platform=Win2000
+Win32=true
+
+[Mozilla/4.74*(Windows NT 5.1; ?)*]
+Parent=Netscape 4.7
+MinorVer=74
+Platform=WinXP
+Win32=true
+
+[Mozilla/4.74*(WinNT; ?)*]
+Parent=Netscape 4.7
+MinorVer=74
+Platform=WinNT
+
+[Mozilla/4.74*(X11*)*]
+Parent=Netscape 4.7
+MinorVer=74
+Platform=Linux
+
+[Mozilla/4.74*(X11; ?; SunOS*)*]
+Parent=Netscape 4.7
+MinorVer=74
+Platform=SunOS
+
+[Mozilla/4.75*(Macintosh; ?; PPC)*]
+Parent=Netscape 4.7
+MinorVer=75
+Platform=MacPPC
+
+[Mozilla/4.75*(Win95; ?)*]
+Parent=Netscape 4.7
+MinorVer=75
+Platform=Win95
+
+[Mozilla/4.75*(Win98; ?)*]
+Parent=Netscape 4.7
+MinorVer=75
+Platform=Win98
+
+[Mozilla/4.75*(Windows NT 4.0; ?)*]
+Parent=Netscape 4.7
+MinorVer=75
+Platform=WinNT
+Win32=true
+
+[Mozilla/4.75*(Windows NT 5.0; ?)*]
+Parent=Netscape 4.7
+MinorVer=75
+Platform=Win2000
+Win32=true
+
+[Mozilla/4.75*(Windows NT 5.1; ?)*]
+Parent=Netscape 4.7
+MinorVer=75
+Platform=WinXP
+Win32=true
+
+[Mozilla/4.75*(WinNT; ?)*]
+Parent=Netscape 4.7
+MinorVer=75
+Platform=WinNT
+
+[Mozilla/4.75*(X11*)*]
+Parent=Netscape 4.7
+MinorVer=75
+Platform=Linux
+
+[Mozilla/4.75*(X11; ?; SunOS*)*]
+Parent=Netscape 4.7
+MinorVer=75
+Platform=SunOS
+
+[Mozilla/4.76*(Macintosh; ?; PPC)*]
+Parent=Netscape 4.7
+MinorVer=76
+Platform=MacPPC
+
+[Mozilla/4.76*(Win95; ?)*]
+Parent=Netscape 4.7
+MinorVer=76
+Platform=Win95
+
+[Mozilla/4.76*(Win98; ?)*]
+Parent=Netscape 4.7
+MinorVer=76
+Platform=Win98
+
+[Mozilla/4.76*(Windows NT 4.0; ?)*]
+Parent=Netscape 4.7
+MinorVer=76
+Platform=WinNT
+Win32=true
+
+[Mozilla/4.76*(Windows NT 5.0; ?)*]
+Parent=Netscape 4.7
+MinorVer=76
+Platform=Win2000
+Win32=true
+
+[Mozilla/4.76*(Windows NT 5.1; ?)*]
+Parent=Netscape 4.7
+MinorVer=76
+Platform=WinXP
+Win32=true
+
+[Mozilla/4.76*(WinNT; ?)*]
+Parent=Netscape 4.7
+MinorVer=76
+Platform=WinNT
+
+[Mozilla/4.76*(X11*)*]
+Parent=Netscape 4.7
+MinorVer=76
+Platform=Linux
+
+[Mozilla/4.76*(X11; ?; SunOS*)*]
+Parent=Netscape 4.7
+MinorVer=76
+Platform=SunOS
+
+[Mozilla/4.77*(Macintosh; ?; PPC)*]
+Parent=Netscape 4.7
+MinorVer=77
+Platform=MacPPC
+
+[Mozilla/4.77*(Win95; ?)*]
+Parent=Netscape 4.7
+MinorVer=77
+Platform=Win95
+
+[Mozilla/4.77*(Win98; ?)*]
+Parent=Netscape 4.7
+MinorVer=77
+Platform=Win98
+
+[Mozilla/4.77*(Windows NT 4.0; ?)*]
+Parent=Netscape 4.7
+MinorVer=77
+Platform=WinNT
+Win32=true
+
+[Mozilla/4.77*(Windows NT 5.0; ?)*]
+Parent=Netscape 4.7
+MinorVer=77
+Platform=Win2000
+Win32=true
+
+[Mozilla/4.77*(Windows NT 5.1; ?)*]
+Parent=Netscape 4.7
+MinorVer=77
+Platform=WinXP
+Win32=true
+
+[Mozilla/4.77*(WinNT; ?)*]
+Parent=Netscape 4.7
+MinorVer=77
+Platform=WinNT
+
+[Mozilla/4.77*(X11*)*]
+Parent=Netscape 4.7
+MinorVer=77
+Platform=Linux
+
+[Mozilla/4.77*(X11; ?; SunOS*)*]
+Parent=Netscape 4.7
+MinorVer=77
+Platform=SunOS
+
+[Mozilla/4.78*(Macintosh; ?; PPC)*]
+Parent=Netscape 4.7
+MinorVer=78
+Platform=MacPPC
+
+[Mozilla/4.78*(Win95; ?)*]
+Parent=Netscape 4.7
+MinorVer=78
+Platform=Win95
+
+[Mozilla/4.78*(Win98; ?)*]
+Parent=Netscape 4.7
+MinorVer=78
+Platform=Win98
+
+[Mozilla/4.78*(Windows NT 4.0; ?)*]
+Parent=Netscape 4.7
+MinorVer=78
+Platform=WinNT
+Win32=true
+
+[Mozilla/4.78*(Windows NT 5.0; ?)*]
+Parent=Netscape 4.7
+MinorVer=78
+Platform=Win2000
+Win32=true
+
+[Mozilla/4.78*(Windows NT 5.1; ?)*]
+Parent=Netscape 4.7
+MinorVer=78
+Platform=WinXP
+Win32=true
+
+[Mozilla/4.78*(WinNT; ?)*]
+Parent=Netscape 4.7
+MinorVer=78
+Platform=WinNT
+
+[Mozilla/4.78*(X11*)*]
+Parent=Netscape 4.7
+MinorVer=78
+Platform=Linux
+
+[Mozilla/4.78*(X11; ?; SunOS*)*]
+Parent=Netscape 4.7
+MinorVer=78
+Platform=SunOS
+
+[Mozilla/4.79*(Macintosh; ?; PPC)*]
+Parent=Netscape 4.7
+Version=4.79
+MinorVer=79
+Platform=MacPPC
+
+[Mozilla/4.79*(Win95; ?)*]
+Parent=Netscape 4.7
+Version=4.79
+MinorVer=79
+Platform=Win95
+
+[Mozilla/4.79*(Win98; ?)*]
+Parent=Netscape 4.7
+Version=4.79
+MinorVer=79
+Platform=Win98
+
+[Mozilla/4.79*(Windows NT 4.0; ?)*]
+Parent=Netscape 4.7
+Version=4.79
+MinorVer=79
+Platform=WinNT
+Win32=true
+
+[Mozilla/4.79*(Windows NT 5.0; ?)*]
+Parent=Netscape 4.7
+Version=4.79
+MinorVer=79
+Platform=Win2000
+Win32=true
+
+[Mozilla/4.79*(Windows NT 5.1; ?)*]
+Parent=Netscape 4.7
+Version=4.79
+MinorVer=79
+Platform=WinXP
+Win32=true
+
+[Mozilla/4.79*(WinNT; ?)*]
+Parent=Netscape 4.7
+Version=4.79
+MinorVer=79
+Platform=WinNT
+
+[Mozilla/4.79*(X11*)*]
+Parent=Netscape 4.7
+Version=4.79
+MinorVer=79
+Platform=Linux
+
+[Mozilla/4.79*(X11; ?; SunOS*)*]
+Parent=Netscape 4.7
+Version=4.79
+MinorVer=79
+Platform=SunOS
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;; Netscape 4.8
+
+[Netscape 4.8]
+Parent=DefaultProperties
+Browser=Netscape
+Version=4.8
+MajorVer=4
+MinorVer=8
+Frames=true
+Tables=true
+Cookies=true
+JavaApplets=true
+JavaScript=true
+CssVersion=1
+supportsCSS=true
+
+[Mozilla/4.8*(Macintosh; ?; MacPPC)*]
+Parent=Netscape 4.8
+Platform=MacPPC
+
+[Mozilla/4.8*(Macintosh; ?; PPC Mac OS X*]
+Parent=Netscape 4.8
+Platform=MacOSX
+
+[Mozilla/4.8*(Macintosh; ?; PPC)*]
+Parent=Netscape 4.8
+Platform=MacPPC
+
+[Mozilla/4.8*(Win95; *)*]
+Parent=Netscape 4.8
+
+[Mozilla/4.8*(Win98; *)*]
+Parent=Netscape 4.8
+Platform=Win98
+
+[Mozilla/4.8*(Windows NT 4.0; *)*]
+Parent=Netscape 4.8
+Platform=WinNT
+Win32=true
+
+[Mozilla/4.8*(Windows NT 5.0; *)*]
+Parent=Netscape 4.8
+Platform=Win2000
+Win32=true
+
+[Mozilla/4.8*(Windows NT 5.1; *)*]
+Parent=Netscape 4.8
+Platform=WinXP
+Win32=true
+
+[Mozilla/4.8*(WinNT; *)*]
+Parent=Netscape 4.8
+Platform=WinNT
+
+[Mozilla/4.8*(X11; *)*]
+Parent=Netscape 4.8
+Platform=Linux
+
+[Mozilla/4.8*(X11; *SunOS*)*]
+Parent=Netscape 4.8
+Platform=SunOS
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;; Netscape 6.0
+
+[Netscape 6.0]
+Parent=DefaultProperties
+Browser=Netscape
+Version=6.0
+MajorVer=6
+Frames=true
+IFrames=true
+Tables=true
+Cookies=true
+JavaApplets=true
+JavaScript=true
+CssVersion=2
+supportsCSS=true
+
+[Mozilla/5.0 (Macintosh; ?; PPC;*) Gecko/* Netscape6/6.0*]
+Parent=Netscape 6.0
+Platform=MacPPC
+
+[Mozilla/5.0 (Windows; ?; Win95;*) Gecko/* Netscape6/6.0*]
+Parent=Netscape 6.0
+Platform=Win95
+Win32=true
+
+[Mozilla/5.0 (Windows; ?; Win98; *) Gecko/* Netscape6/6.0*]
+Parent=Netscape 6.0
+Platform=Win98
+Win32=true
+
+[Mozilla/5.0 (Windows; ?; Win9x 4.90; *) Gecko/* Netscape6/6.0*]
+Parent=Netscape 6.0
+Platform=WinME
+Win32=true
+
+[Mozilla/5.0 (Windows; ?; Windows NT 4.0; *) Gecko/* Netscape6/6.0*]
+Parent=Netscape 6.0
+Platform=WinNT
+Win32=true
+
+[Mozilla/5.0 (Windows; ?; Windows NT 5.0; *) Gecko/* Netscape6/6.0*]
+Parent=Netscape 6.0
+Platform=Win2000
+Win32=true
+
+[Mozilla/5.0 (Windows; ?; Windows NT 5.1; *) Gecko/* Netscape6/6.0*]
+Parent=Netscape 6.0
+Platform=WinXP
+Win32=true
+
+[Mozilla/5.0 (Windows; ?; Windows NT 5.2; *) Gecko/* Netscape6/6.0*]
+Parent=Netscape 6.0
+Platform=WinXP
+
+[Mozilla/5.0 (Windows; ?; Windows NT 6.0; *) Gecko/* Netscape6/6.0*]
+Parent=Netscape 6.0
+Platform=WinVista
+
+[Mozilla/5.0 (Windows; ?; Windows NT 6.1; *) Gecko/* Netscape6/6.0*]
+Parent=Netscape 6.0
+Platform=Win7
+
+[Mozilla/5.0 (Windows; ?; WinNT4.0; *) Gecko/* Netscape6/6.0*]
+Parent=Netscape 6.0
+Platform=WinNT
+Win32=true
+
+[Mozilla/5.0 (Windows; ?; WinNT5.0; *) Gecko/* Netscape6/6.0*]
+Parent=Netscape 6.0
+Platform=Win2000
+Win32=true
+
+[Mozilla/5.0 (Windows; ?; WinNT5.1; *) Gecko/* Netscape6/6.0*]
+Parent=Netscape 6.0
+Platform=WinXP
+Win32=true
+
+[Mozilla/5.0 (Windows; ?; WinNT5.2; *) Gecko/* Netscape6/6.0*]
+Parent=Netscape 6.0
+Platform=WinXP
+
+[Mozilla/5.0 (Windows; ?; WinNT6.0; *) Gecko/* Netscape6/6.0*]
+Parent=Netscape 6.0
+Platform=WinVista
+
+[Mozilla/5.0 (Windows; ?; WinNT6.1; *) Gecko/* Netscape6/6.0*]
+Parent=Netscape 6.0
+Platform=Win7
+
+[Mozilla/5.0 (X11; ?; *) Gecko/* Netscape6/6.0*]
+Parent=Netscape 6.0
+Platform=Linux
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;; Netscape 6.1
+
+[Netscape 6.1]
+Parent=DefaultProperties
+Browser=Netscape
+Version=6.1
+MajorVer=6
+MinorVer=1
+Frames=true
+IFrames=true
+Tables=true
+Cookies=true
+JavaApplets=true
+JavaScript=true
+CssVersion=2
+supportsCSS=true
+
+[Mozilla/5.0 (Macintosh; ?; PPC;*) Gecko/* Netscape6/6.1*]
+Parent=Netscape 6.1
+Platform=MacPPC
+
+[Mozilla/5.0 (Windows; ?; Win95;*) Gecko/* Netscape6/6.1*]
+Parent=Netscape 6.1
+Platform=Win95
+Win32=true
+
+[Mozilla/5.0 (Windows; ?; Win98; *) Gecko/* Netscape6/6.1*]
+Parent=Netscape 6.1
+Platform=Win98
+Win32=true
+
+[Mozilla/5.0 (Windows; ?; Win9x 4.90; *) Gecko/* Netscape6/6.1*]
+Parent=Netscape 6.1
+Platform=WinME
+Win32=true
+
+[Mozilla/5.0 (Windows; ?; Windows NT 4.0; *) Gecko/* Netscape6/6.1*]
+Parent=Netscape 6.1
+Platform=WinNT
+Win32=true
+
+[Mozilla/5.0 (Windows; ?; Windows NT 5.0; *) Gecko/* Netscape6/6.1*]
+Parent=Netscape 6.1
+Platform=Win2000
+Win32=true
+
+[Mozilla/5.0 (Windows; ?; Windows NT 5.1; *) Gecko/* Netscape6/6.1*]
+Parent=Netscape 6.1
+Platform=WinXP
+Win32=true
+
+[Mozilla/5.0 (Windows; ?; Windows NT 5.2; *) Gecko/* Netscape6/6.1*]
+Parent=Netscape 6.1
+Platform=WinXP
+
+[Mozilla/5.0 (Windows; ?; Windows NT 6.0; *) Gecko/* Netscape6/6.1*]
+Parent=Netscape 6.1
+Platform=WinVista
+
+[Mozilla/5.0 (Windows; ?; Windows NT 6.1; *) Gecko/* Netscape6/6.1*]
+Parent=Netscape 6.1
+Platform=Win7
+
+[Mozilla/5.0 (Windows; ?; WinNT4.0; *) Gecko/* Netscape6/6.1*]
+Parent=Netscape 6.1
+Platform=WinNT
+Win32=true
+
+[Mozilla/5.0 (Windows; ?; WinNT5.0; *) Gecko/* Netscape6/6.1*]
+Parent=Netscape 6.1
+Platform=Win2000
+Win32=true
+
+[Mozilla/5.0 (Windows; ?; WinNT5.1; *) Gecko/* Netscape6/6.1*]
+Parent=Netscape 6.1
+Platform=WinXP
+Win32=true
+
+[Mozilla/5.0 (Windows; ?; WinNT5.2; *) Gecko/* Netscape6/6.1*]
+Parent=Netscape 6.1
+Platform=WinXP
+
+[Mozilla/5.0 (Windows; ?; WinNT6.0; *) Gecko/* Netscape6/6.1*]
+Parent=Netscape 6.1
+Platform=WinVista
+
+[Mozilla/5.0 (Windows; ?; WinNT6.1; *) Gecko/* Netscape6/6.1*]
+Parent=Netscape 6.1
+Platform=Win7
+
+[Mozilla/5.0 (X11; ?; *) Gecko/* Netscape6/6.1*]
+Parent=Netscape 6.1
+Platform=Linux
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;; Netscape 6.2
+
+[Netscape 6.2]
+Parent=DefaultProperties
+Browser=Netscape
+Version=6.2
+MajorVer=6
+MinorVer=2
+Frames=true
+IFrames=true
+Tables=true
+Cookies=true
+JavaApplets=true
+JavaScript=true
+CssVersion=2
+supportsCSS=true
+
+[Mozilla/5.0 (Macintosh; ?; PPC Mac OS X*) Gecko/* Netscape6/6.2*]
+Parent=Netscape 6.2
+Platform=MacOSX
+
+[Mozilla/5.0 (Macintosh; ?; PPC;*) Gecko/* Netscape6/6.2*]
+Parent=Netscape 6.2
+Platform=MacPPC
+
+[Mozilla/5.0 (Windows; ?; Win 9x 4.90; *) Gecko/* Netscape6/6.2*]
+Parent=Netscape 6.2
+Win32=true
+
+[Mozilla/5.0 (Windows; ?; Win95;*) Gecko/* Netscape6/6.2*]
+Parent=Netscape 6.2
+Platform=Win95
+Win32=true
+
+[Mozilla/5.0 (Windows; ?; Win98; *) Gecko/* Netscape6/6.2*]
+Parent=Netscape 6.2
+Platform=Win98
+Win32=true
+
+[Mozilla/5.0 (Windows; ?; Win9x 4.90; *) Gecko/* Netscape6/6.2*]
+Parent=Netscape 6.2
+Platform=WinME
+Win32=true
+
+[Mozilla/5.0 (Windows; ?; Windows NT 4.0; *) Gecko/* Netscape6/6.2*]
+Parent=Netscape 6.2
+Platform=WinNT
+Win32=true
+
+[Mozilla/5.0 (Windows; ?; Windows NT 5.0; *) Gecko/* Netscape6/6.2*]
+Parent=Netscape 6.2
+Platform=Win2000
+Win32=true
+
+[Mozilla/5.0 (Windows; ?; Windows NT 5.1; *) Gecko/* Netscape6/6.2*]
+Parent=Netscape 6.2
+Platform=WinXP
+Win32=true
+
+[Mozilla/5.0 (Windows; ?; Windows NT 5.2; *) Gecko/* Netscape6/6.2*]
+Parent=Netscape 6.2
+Platform=Win2003
+Win32=true
+
+[Mozilla/5.0 (Windows; ?; Windows NT 6.0; *) Gecko/* Netscape6/6.2*]
+Parent=Netscape 6.2
+Platform=WinVista
+
+[Mozilla/5.0 (Windows; ?; Windows NT 6.1; *) Gecko/* Netscape6/6.2*]
+Parent=Netscape 6.2
+Platform=Win7
+
+[Mozilla/5.0 (Windows; ?; WinNT4.0; *) Gecko/* Netscape6/6.2*]
+Parent=Netscape 6.2
+Platform=WinNT
+Win32=true
+
+[Mozilla/5.0 (Windows; ?; WinNT5.0; *) Gecko/* Netscape6/6.2*]
+Parent=Netscape 6.2
+Platform=Win2000
+Win32=true
+
+[Mozilla/5.0 (Windows; ?; WinNT5.1; *) Gecko/* Netscape6/6.2*]
+Parent=Netscape 6.2
+Platform=WinXP
+Win32=true
+
+[Mozilla/5.0 (Windows; ?; WinNT5.2; *) Gecko/* Netscape6/6.2*]
+Parent=Netscape 6.2
+Platform=Win2003
+Win32=true
+
+[Mozilla/5.0 (Windows; ?; WinNT6.0; *) Gecko/* Netscape6/6.2*]
+Parent=Netscape 6.2
+Platform=WinVista
+
+[Mozilla/5.0 (Windows; ?; WinNT6.1; *) Gecko/* Netscape6/6.2*]
+Parent=Netscape 6.2
+Platform=Win7
+
+[Mozilla/5.0 (X11; ?; *) Gecko/* Netscape6/6.2*]
+Parent=Netscape 6.2
+Platform=Linux
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;; Netscape 7.0
+
+[Netscape 7.0]
+Parent=DefaultProperties
+Browser=Netscape
+Version=7.0
+MajorVer=7
+Frames=true
+IFrames=true
+Tables=true
+Cookies=true
+JavaApplets=true
+JavaScript=true
+CssVersion=2
+supportsCSS=true
+
+[Mozilla/5.0 (Macintosh; ?; PPC Mac OS X;*) Gecko/* Netscape*/7.0*]
+Parent=Netscape 7.0
+Platform=MacOSX
+
+[Mozilla/5.0 (Macintosh; ?; PPC;*) Gecko/* Netscape*/7.0*]
+Parent=Netscape 7.0
+Platform=MacPPC
+
+[Mozilla/5.0 (Windows; ?; Win*9x 4.90; *) Gecko/* Netscape*/7.0*]
+Parent=Netscape 7.0
+Platform=WinME
+Win32=true
+
+[Mozilla/5.0 (Windows; ?; Win95;*) Gecko/* Netscape*/7.0*]
+Parent=Netscape 7.0
+Platform=Win95
+Win32=true
+
+[Mozilla/5.0 (Windows; ?; Win98; *) Gecko/* Netscape*/7.0*]
+Parent=Netscape 7.0
+Platform=Win98
+Win32=true
+
+[Mozilla/5.0 (Windows; ?; Windows NT 4.0; *) Gecko/* Netscape*/7.0*]
+Parent=Netscape 7.0
+Platform=WinNT
+Win32=true
+
+[Mozilla/5.0 (Windows; ?; Windows NT 5.0; *) Gecko/* Netscape*/7.0*]
+Parent=Netscape 7.0
+Platform=Win2000
+Win32=true
+
+[Mozilla/5.0 (Windows; ?; Windows NT 5.1; *) Gecko/* Netscape*/7.0*]
+Parent=Netscape 7.0
+Platform=WinXP
+Win32=true
+
+[Mozilla/5.0 (Windows; ?; Windows NT 5.2; *) Gecko/* Netscape*/7.0*]
+Parent=Netscape 7.0
+Platform=Win2003
+Win32=true
+
+[Mozilla/5.0 (Windows; ?; Windows NT 6.0; *) Gecko/* Netscape*/7.0*]
+Parent=Netscape 7.0
+Platform=WinVista
+
+[Mozilla/5.0 (Windows; ?; Windows NT 6.1; *) Gecko/* Netscape*/7.0*]
+Parent=Netscape 7.0
+Platform=Win7
+
+[Mozilla/5.0 (Windows; ?; WinNT4.0; *) Gecko/* Netscape*/7.0*]
+Parent=Netscape 7.0
+Platform=WinNT
+Win32=true
+
+[Mozilla/5.0 (Windows; ?; WinNT5.0; *) Gecko/* Netscape*/7.0*]
+Parent=Netscape 7.0
+Platform=Win2000
+Win32=true
+
+[Mozilla/5.0 (Windows; ?; WinNT5.1; *) Gecko/* Netscape*/7.0*]
+Parent=Netscape 7.0
+Platform=WinXP
+Win32=true
+
+[Mozilla/5.0 (Windows; ?; WinNT5.2; *) Gecko/* Netscape*/7.0*]
+Parent=Netscape 7.0
+Platform=Win2003
+Win32=true
+
+[Mozilla/5.0 (Windows; ?; WinNT6.0; *) Gecko/* Netscape*/7.0*]
+Parent=Netscape 7.0
+Platform=WinVista
+
+[Mozilla/5.0 (Windows; ?; WinNT6.1; *) Gecko/* Netscape*/7.0*]
+Parent=Netscape 7.0
+Platform=Win7
+
+[Mozilla/5.0 (X11; ?; *) Gecko/* Netscape*/7.0*]
+Parent=Netscape 7.0
+Platform=Linux
+
+[Mozilla/5.0 (X11; ?; SunOS*) Gecko/* Netscape*/7.0*]
+Parent=Netscape 7.0
+Platform=SunOS
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;; Netscape 7.1
+
+[Netscape 7.1]
+Parent=DefaultProperties
+Browser=Netscape
+Version=7.1
+MajorVer=7
+MinorVer=1
+Frames=true
+IFrames=true
+Tables=true
+Cookies=true
+JavaApplets=true
+JavaScript=true
+CssVersion=2
+supportsCSS=true
+
+[Mozilla/5.0 (Macintosh; ?; PPC Mac OS X Mach-O; *; rv:*) Gecko/* Netscape*/7.1]
+Parent=Netscape 7.1
+Platform=MacOSX
+
+[Mozilla/5.0 (Macintosh; ?; PPC Mac OS X;*) Gecko/* Netscape*/7.1*]
+Parent=Netscape 7.1
+Platform=MacOSX
+
+[Mozilla/5.0 (Macintosh; ?; PPC;*) Gecko/* Netscape*/7.1*]
+Parent=Netscape 7.1
+Platform=MacPPC
+
+[Mozilla/5.0 (Windows; ?; Win 9x 4.90; *) Gecko/* Netscape*/7.1*]
+Parent=Netscape 7.1
+Platform=WinME
+Win32=true
+
+[Mozilla/5.0 (Windows; ?; Win95;*) Gecko/* Netscape*/7.1*]
+Parent=Netscape 7.1
+Platform=Win95
+Win32=true
+
+[Mozilla/5.0 (Windows; ?; Win98; *) Gecko/* Netscape*/7.1*]
+Parent=Netscape 7.1
+Platform=Win98
+Win32=true
+
+[Mozilla/5.0 (Windows; ?; Win9x 4.90; *) Gecko/* Netscape*/7.1*]
+Parent=Netscape 7.1
+Platform=WinME
+Win32=true
+
+[Mozilla/5.0 (Windows; ?; Windows NT 4.0; *) Gecko/* Netscape*/7.1*]
+Parent=Netscape 7.1
+Platform=WinNT
+Win32=true
+
+[Mozilla/5.0 (Windows; ?; Windows NT 5.0; *) Gecko/* Netscape*/7.1*]
+Parent=Netscape 7.1
+Platform=Win2000
+Win32=true
+
+[Mozilla/5.0 (Windows; ?; Windows NT 5.1; *) Gecko/* Netscape*/7.1*]
+Parent=Netscape 7.1
+Platform=WinXP
+Win32=true
+
+[Mozilla/5.0 (Windows; ?; Windows NT 5.2; *) Gecko/* Netscape*/7.1*]
+Parent=Netscape 7.1
+Platform=Win2003
+Win32=true
+
+[Mozilla/5.0 (Windows; ?; Windows NT 6.0; *) Gecko/* Netscape*/7.1*]
+Parent=Netscape 7.1
+Platform=WinVista
+
+[Mozilla/5.0 (Windows; ?; Windows NT 6.1; *) Gecko/* Netscape*/7.1*]
+Parent=Netscape 7.1
+Platform=Win7
+
+[Mozilla/5.0 (Windows; ?; WinNT4.0; *) Gecko/* Netscape*/7.1*]
+Parent=Netscape 7.1
+Platform=WinNT
+Win32=true
+
+[Mozilla/5.0 (Windows; ?; WinNT5.0; *) Gecko/* Netscape*/7.1*]
+Parent=Netscape 7.1
+Platform=Win2000
+Win32=true
+
+[Mozilla/5.0 (Windows; ?; WinNT5.1; *) Gecko/* Netscape*/7.1*]
+Parent=Netscape 7.1
+Platform=WinXP
+Win32=true
+
+[Mozilla/5.0 (Windows; ?; WinNT5.2; *) Gecko/* Netscape*/7.1*]
+Parent=Netscape 7.1
+Platform=Win2003
+Win32=true
+
+[Mozilla/5.0 (Windows; ?; WinNT6.0; *) Gecko/* Netscape*/7.1*]
+Parent=Netscape 7.1
+Platform=WinVista
+
+[Mozilla/5.0 (Windows; ?; WinNT6.1; *) Gecko/* Netscape*/7.1*]
+Parent=Netscape 7.1
+Platform=Win7
+
+[Mozilla/5.0 (X11; ?; *) Gecko/* Netscape*/7.1*]
+Parent=Netscape 7.1
+Platform=Linux
+
+[Mozilla/5.0 (X11; ?; SunOS*) Gecko/* Netscape*/7.1*]
+Parent=Netscape 7.1
+Platform=SunOS
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;; Netscape 7.2
+
+[Netscape 7.2]
+Parent=DefaultProperties
+Browser=Netscape
+Version=7.2
+MajorVer=7
+MinorVer=2
+Frames=true
+IFrames=true
+Tables=true
+Cookies=true
+JavaApplets=true
+JavaScript=true
+CssVersion=2
+supportsCSS=true
+
+[Mozilla/5.0 (Macintosh; ?; PPC Mac OS X Mach-O; *; rv:*) Gecko/* Netscape*/7.2*]
+Parent=Netscape 7.2
+Platform=MacOSX
+
+[Mozilla/5.0 (Macintosh; ?; PPC Mac OS X;*) Gecko/* Netscape*/7.2*]
+Parent=Netscape 7.2
+Platform=MacOSX
+
+[Mozilla/5.0 (Macintosh; ?; PPC;*) Gecko/* Netscape*/7.2*]
+Parent=Netscape 7.2
+Platform=MacPPC
+
+[Mozilla/5.0 (Windows; ?; Win 9x 4.90; *) Gecko/* Netscape*/7.2*]
+Parent=Netscape 7.2
+Platform=WinME
+Win32=true
+
+[Mozilla/5.0 (Windows; ?; Win95;*) Gecko/* Netscape*/7.2*]
+Parent=Netscape 7.2
+Platform=Win95
+Win32=true
+
+[Mozilla/5.0 (Windows; ?; Win98; *) Gecko/* Netscape*/7.2*]
+Parent=Netscape 7.2
+Platform=Win98
+Win32=true
+
+[Mozilla/5.0 (Windows; ?; Win9x 4.90; *) Gecko/* Netscape*/7.2*]
+Parent=Netscape 7.2
+Platform=WinME
+Win32=true
+
+[Mozilla/5.0 (Windows; ?; Windows NT 4.0; *) Gecko/* Netscape*/7.2*]
+Parent=Netscape 7.2
+Platform=WinNT
+Win32=true
+
+[Mozilla/5.0 (Windows; ?; Windows NT 5.0; *) Gecko/* Netscape*/7.2*]
+Parent=Netscape 7.2
+Platform=Win2000
+Win32=true
+
+[Mozilla/5.0 (Windows; ?; Windows NT 5.1; *) Gecko/* Netscape*/7.2*]
+Parent=Netscape 7.2
+Platform=WinXP
+Win32=true
+
+[Mozilla/5.0 (Windows; ?; Windows NT 5.2; *) Gecko/* Netscape*/7.2*]
+Parent=Netscape 7.2
+Platform=Win2003
+Win32=true
+
+[Mozilla/5.0 (Windows; ?; Windows NT 6.0; *) Gecko/* Netscape*/7.2*]
+Parent=Netscape 7.2
+Platform=WinVista
+
+[Mozilla/5.0 (Windows; ?; Windows NT 6.1; *) Gecko/* Netscape*/7.2*]
+Parent=Netscape 7.2
+Platform=Win7
+
+[Mozilla/5.0 (Windows; ?; WinNT4.0; *) Gecko/* Netscape*/7.2*]
+Parent=Netscape 7.2
+Platform=WinNT
+Win32=true
+
+[Mozilla/5.0 (Windows; ?; WinNT5.0; *) Gecko/* Netscape*/7.2*]
+Parent=Netscape 7.2
+Platform=Win2000
+Win32=true
+
+[Mozilla/5.0 (Windows; ?; WinNT5.1; *) Gecko/* Netscape*/7.2*]
+Parent=Netscape 7.2
+Platform=WinXP
+Win32=true
+
+[Mozilla/5.0 (Windows; ?; WinNT5.2; *) Gecko/* Netscape*/7.2*]
+Parent=Netscape 7.2
+Platform=Win2003
+Win32=true
+
+[Mozilla/5.0 (Windows; ?; WinNT6.0; *) Gecko/* Netscape*/7.2*]
+Parent=Netscape 7.2
+Platform=WinVista
+
+[Mozilla/5.0 (Windows; ?; WinNT6.1; *) Gecko/* Netscape*/7.2*]
+Parent=Netscape 7.2
+Platform=Win7
+
+[Mozilla/5.0 (X11; ?; *) Gecko/* Netscape*/7.2*]
+Parent=Netscape 7.2
+Platform=Linux
+
+[Mozilla/5.0 (X11; ?; SunOS*) Gecko/* Netscape*/7.2*]
+Parent=Netscape 7.2
+Platform=SunOS
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;; Netscape 8.0
+
+[Netscape 8.0]
+Parent=DefaultProperties
+Browser=Netscape
+Version=8.0
+MajorVer=8
+Frames=true
+IFrames=true
+Tables=true
+Cookies=true
+JavaApplets=true
+JavaScript=true
+CssVersion=2
+supportsCSS=true
+
+[Mozilla/5.0 (Macintosh; ?; PPC Mac OS X Mach-O; *; rv:*) Gecko/* Netscape*/8.0*]
+Parent=Netscape 8.0
+Platform=MacOSX
+
+[Mozilla/5.0 (Macintosh; ?; PPC Mac OS X;*) Gecko/* Netscape*/8.0*]
+Parent=Netscape 8.0
+Platform=MacOSX
+
+[Mozilla/5.0 (Macintosh; ?; PPC;*) Gecko/* Netscape*/8.0*]
+Parent=Netscape 8.0
+Platform=MacPPC
+
+[Mozilla/5.0 (Windows; ?; Win 9x 4.90; *) Gecko/* Netscape*/8.0*]
+Parent=Netscape 8.0
+Platform=WinME
+Win32=true
+
+[Mozilla/5.0 (Windows; ?; Win95;*) Gecko/* Netscape*/8.0*]
+Parent=Netscape 8.0
+Platform=Win95
+Win32=true
+
+[Mozilla/5.0 (Windows; ?; Win98; *) Gecko/* Netscape*/8.0*]
+Parent=Netscape 8.0
+Platform=Win98
+Win32=true
+
+[Mozilla/5.0 (Windows; ?; Win9x 4.90; *) Gecko/* Netscape*/8.0*]
+Parent=Netscape 8.0
+Platform=WinME
+Win32=true
+
+[Mozilla/5.0 (Windows; ?; Windows NT 4.0; *) Gecko/* Netscape*/8.0*]
+Parent=Netscape 8.0
+Platform=WinNT
+Win32=true
+
+[Mozilla/5.0 (Windows; ?; Windows NT 5.0; *) Gecko/* Netscape*/8.0*]
+Parent=Netscape 8.0
+Platform=Win2000
+Win32=true
+
+[Mozilla/5.0 (Windows; ?; Windows NT 5.1; *) Gecko/* Netscape*/8.0*]
+Parent=Netscape 8.0
+Platform=WinXP
+Win32=true
+
+[Mozilla/5.0 (Windows; ?; Windows NT 5.2; *) Gecko/* Netscape*/8.0*]
+Parent=Netscape 8.0
+Platform=Win2003
+Win32=true
+
+[Mozilla/5.0 (Windows; ?; Windows NT 6.0; *) Gecko/* Netscape*/8.0*]
+Parent=Netscape 8.0
+Platform=WinVista
+
+[Mozilla/5.0 (Windows; ?; Windows NT 6.1; *) Gecko/* Netscape*/8.0*]
+Parent=Netscape 8.0
+Platform=Win7
+
+[Mozilla/5.0 (Windows; ?; WinNT4.0; *) Gecko/* Netscape*/8.0*]
+Parent=Netscape 8.0
+Platform=WinNT
+Win32=true
+
+[Mozilla/5.0 (Windows; ?; WinNT5.0; *) Gecko/* Netscape*/8.0*]
+Parent=Netscape 8.0
+Platform=Win2000
+Win32=true
+
+[Mozilla/5.0 (Windows; ?; WinNT5.1; *) Gecko/* Netscape*/8.0*]
+Parent=Netscape 8.0
+Platform=WinXP
+Win32=true
+
+[Mozilla/5.0 (Windows; ?; WinNT5.2; *) Gecko/* Netscape*/8.0*]
+Parent=Netscape 8.0
+Platform=Win2003
+Win32=true
+
+[Mozilla/5.0 (Windows; ?; WinNT6.0; *) Gecko/* Netscape*/8.0*]
+Parent=Netscape 8.0
+Platform=WinVista
+
+[Mozilla/5.0 (Windows; ?; WinNT6.1; *) Gecko/* Netscape*/8.0*]
+Parent=Netscape 8.0
+Platform=Win7
+
+[Mozilla/5.0 (X11; ?; *) Gecko/* Netscape*/8.0*]
+Parent=Netscape 8.0
+Platform=Linux
+
+[Mozilla/5.0 (X11; ?; SunOS*) Gecko/* Netscape*/8.0*]
+Parent=Netscape 8.0
+Platform=SunOS
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;; Netscape 8.1
+
+[Netscape 8.1]
+Parent=DefaultProperties
+Browser=Netscape
+Version=8.1
+MajorVer=8
+MinorVer=1
+Frames=true
+IFrames=true
+Tables=true
+Cookies=true
+JavaApplets=true
+JavaScript=true
+CssVersion=2
+supportsCSS=true
+
+[Mozilla/5.0 (Macintosh; ?; *Mac OS X*) Gecko/* Netscape*/8.1*]
+Parent=Netscape 8.1
+Platform=MacOSX
+
+[Mozilla/5.0 (Macintosh; ?; PPC;*) Gecko/* Netscape*/8.1*]
+Parent=Netscape 8.1
+Platform=MacPPC
+
+[Mozilla/5.0 (Windows; ?; Win 9x 4.90; *) Gecko/* Netscape*/8.1*]
+Parent=Netscape 8.1
+Platform=WinME
+Win32=true
+
+[Mozilla/5.0 (Windows; ?; Win95;*) Gecko/* Netscape*/8.1*]
+Parent=Netscape 8.1
+Platform=Win95
+Win32=true
+
+[Mozilla/5.0 (Windows; ?; Win98; *) Gecko/* Netscape*/8.1*]
+Parent=Netscape 8.1
+Platform=Win98
+Win32=true
+
+[Mozilla/5.0 (Windows; ?; Win9x 4.90; *) Gecko/* Netscape*/8.1*]
+Parent=Netscape 8.1
+Platform=WinME
+Win32=true
+
+[Mozilla/5.0 (Windows; ?; Windows NT 4.0; *) Gecko/* Netscape*/8.1*]
+Parent=Netscape 8.1
+Platform=WinNT
+Win32=true
+
+[Mozilla/5.0 (Windows; ?; Windows NT 5.0; *) Gecko/* Netscape*/8.1*]
+Parent=Netscape 8.1
+Platform=Win2000
+Win32=true
+
+[Mozilla/5.0 (Windows; ?; Windows NT 5.1; *) Gecko/* Netscape*/8.1*]
+Parent=Netscape 8.1
+Platform=WinXP
+Win32=true
+
+[Mozilla/5.0 (Windows; ?; Windows NT 5.2; *) Gecko/* Netscape*/8.1*]
+Parent=Netscape 8.1
+Platform=Win2003
+Win32=true
+
+[Mozilla/5.0 (Windows; ?; Windows NT 6.0; *) Gecko/* Netscape*/8.1*]
+Parent=Netscape 8.1
+Platform=WinVista
+Win32=true
+
+[Mozilla/5.0 (Windows; ?; Windows NT 6.1; *) Gecko/* Netscape*/8.1*]
+Parent=Netscape 8.1
+Platform=Win7
+
+[Mozilla/5.0 (Windows; ?; WinNT4.0; *) Gecko/* Netscape*/8.1*]
+Parent=Netscape 8.1
+Platform=WinNT
+Win32=true
+
+[Mozilla/5.0 (Windows; ?; WinNT5.0; *) Gecko/* Netscape*/8.1*]
+Parent=Netscape 8.1
+Platform=Win2000
+Win32=true
+
+[Mozilla/5.0 (Windows; ?; WinNT5.1; *) Gecko/* Netscape*/8.1*]
+Parent=Netscape 8.1
+Platform=WinXP
+Win32=true
+
+[Mozilla/5.0 (Windows; ?; WinNT5.2; *) Gecko/* Netscape*/8.1*]
+Parent=Netscape 8.1
+Platform=Win2003
+Win32=true
+
+[Mozilla/5.0 (Windows; ?; WinNT6.0; *) Gecko/* Netscape*/8.1*]
+Parent=Netscape 8.1
+Platform=WinVista
+Win32=true
+
+[Mozilla/5.0 (Windows; ?; WinNT6.1; *) Gecko/* Netscape*/8.1*]
+Parent=Netscape 8.1
+Platform=Win7
+
+[Mozilla/5.0 (X11; ?; *) Gecko/* Netscape*/8.1*]
+Parent=Netscape 8.1
+Platform=Linux
+
+[Mozilla/5.0 (X11; ?; SunOS*) Gecko/* Netscape*/8.1*]
+Parent=Netscape 8.1
+Platform=SunOS
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;; SeaMonkey 1.0
+
+[SeaMonkey 1.0]
+Parent=DefaultProperties
+Browser=SeaMonkey
+Version=1.0
+MajorVer=1
+Frames=true
+IFrames=true
+Tables=true
+Cookies=true
+BackgroundSounds=true
+JavaApplets=true
+JavaScript=true
+CssVersion=2
+supportsCSS=true
+
+[Mozilla/5.0 (Macintosh; ?; *Mac OS X*; *; rv:1.8*) Gecko/* SeaMonkey/1.0*]
+Parent=SeaMonkey 1.0
+Platform=MacOSX
+
+[Mozilla/5.0 (Windows; ?; Win 9x 4.90; *; rv:1.8*) Gecko/* SeaMonkey/1.0*]
+Parent=SeaMonkey 1.0
+Platform=WinME
+
+[Mozilla/5.0 (Windows; ?; Win98; *; rv:1.8*) Gecko/* SeaMonkey/1.0*]
+Parent=SeaMonkey 1.0
+Platform=Win98
+
+[Mozilla/5.0 (Windows; ?; Windows NT 5.0; *; rv:1.8*) Gecko/* SeaMonkey/1.0*]
+Parent=SeaMonkey 1.0
+Platform=Win2000
+
+[Mozilla/5.0 (Windows; ?; Windows NT 5.1; *; rv:1.8*) Gecko/* SeaMonkey/1.0*]
+Parent=SeaMonkey 1.0
+Platform=WinXP
+
+[Mozilla/5.0 (Windows; ?; Windows NT 5.2; *; rv:1.8*) Gecko/* SeaMonkey/1.0*]
+Parent=SeaMonkey 1.0
+Platform=Win2003
+
+[Mozilla/5.0 (Windows; ?; Windows NT 6.0; *; rv:1.8*) Gecko/* SeaMonkey/1.0*]
+Parent=SeaMonkey 1.0
+Platform=WinVista
+
+[Mozilla/5.0 (Windows; ?; Windows NT 6.1; *; rv:1.8*) Gecko/* SeaMonkey/1.0*]
+Parent=SeaMonkey 1.0
+Platform=Win7
+
+[Mozilla/5.0 (X11; ?; FreeBSD*; *; rv:1.8*) Gecko/* SeaMonkey/1.0*]
+Parent=SeaMonkey 1.0
+Platform=FreeBSD
+
+[Mozilla/5.0 (X11; ?; Linux*; *; rv:1.8*) Gecko/20060221 SeaMonkey/1.0*]
+Parent=SeaMonkey 1.0
+Platform=Linux
+
+[Mozilla/5.0 (X11; ?; SunOS*; *; rv:1.8*) Gecko/* SeaMonkey/1.0*]
+Parent=SeaMonkey 1.0
+Platform=SunOS
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;; SeaMonkey 1.1
+
+[SeaMonkey 1.1]
+Parent=DefaultProperties
+Browser=SeaMonkey
+Version=1.1
+MajorVer=1
+MinorVer=1
+Frames=true
+IFrames=true
+Tables=true
+Cookies=true
+BackgroundSounds=true
+JavaApplets=true
+JavaScript=true
+CssVersion=2
+supportsCSS=true
+
+[Mozilla/5.0 (Macintosh; ?; *Mac OS X*; *; rv:1.8*) Gecko/* SeaMonkey/1.1*]
+Parent=SeaMonkey 1.1
+Platform=MacOSX
+
+[Mozilla/5.0 (Windows; ?; Win 9x 4.90; *; rv:1.8*) Gecko/* SeaMonkey/1.1*]
+Parent=SeaMonkey 1.1
+Platform=WinME
+
+[Mozilla/5.0 (Windows; ?; Win98; *; rv:1.8*) Gecko/* SeaMonkey/1.1*]
+Parent=SeaMonkey 1.1
+Platform=Win98
+
+[Mozilla/5.0 (Windows; ?; Windows NT 5.0; *; rv:1.8*) Gecko/* SeaMonkey/1.1*]
+Parent=SeaMonkey 1.1
+Platform=Win2000
+
+[Mozilla/5.0 (Windows; ?; Windows NT 5.1; *; rv:1.8*) Gecko/* SeaMonkey/1.1*]
+Parent=SeaMonkey 1.1
+Platform=WinXP
+
+[Mozilla/5.0 (Windows; ?; Windows NT 5.2; *; rv:1.8*) Gecko/* SeaMonkey/1.1*]
+Parent=SeaMonkey 1.1
+Platform=Win2003
+
+[Mozilla/5.0 (Windows; ?; Windows NT 6.0; *; rv:1.8*) Gecko/* SeaMonkey/1.1*]
+Parent=SeaMonkey 1.1
+Platform=WinVista
+
+[Mozilla/5.0 (Windows; ?; Windows NT 6.1; *; rv:1.8*) Gecko/* SeaMonkey/1.1*]
+Parent=SeaMonkey 1.1
+Platform=Win7
+
+[Mozilla/5.0 (X11; ?; FreeBSD*; *; rv:1.8*) Gecko/* SeaMonkey/1.1*]
+Parent=SeaMonkey 1.1
+Platform=FreeBSD
+
+[Mozilla/5.0 (X11; ?; Linux*; *; rv:1.8*) Gecko/20060221 SeaMonkey/1.1*]
+Parent=SeaMonkey 1.1
+Platform=Linux
+
+[Mozilla/5.0 (X11; ?; SunOS*; *; rv:1.8*) Gecko/* SeaMonkey/1.1*]
+Parent=SeaMonkey 1.1
+Platform=SunOS
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;; SeaMonkey 2.0
+
+[SeaMonkey 2.0]
+Parent=DefaultProperties
+Browser=SeaMonkey
+Version=2.0
+MajorVer=2
+Alpha=true
+Frames=true
+IFrames=true
+Tables=true
+Cookies=true
+BackgroundSounds=true
+JavaApplets=true
+JavaScript=true
+CssVersion=2
+supportsCSS=true
+
+[Mozilla/5.0 (Macintosh; ?; *Mac OS X*; *; rv:1.9*) Gecko/* SeaMonkey/2.0*]
+Parent=SeaMonkey 2.0
+Platform=MacOSX
+
+[Mozilla/5.0 (Windows; ?; Win 9x 4.90; *; rv:1.9*) Gecko/* SeaMonkey/2.0*]
+Parent=SeaMonkey 2.0
+Platform=WinME
+
+[Mozilla/5.0 (Windows; ?; Win98; *; rv:1.9*) Gecko/* SeaMonkey/2.0*]
+Parent=SeaMonkey 2.0
+Platform=Win98
+
+[Mozilla/5.0 (Windows; ?; Windows NT 5.0; *; rv:1.9*) Gecko/* SeaMonkey/2.0*]
+Parent=SeaMonkey 2.0
+Platform=Win2000
+
+[Mozilla/5.0 (Windows; ?; Windows NT 5.1; *; rv:1.9*) Gecko/* SeaMonkey/2.0*]
+Parent=SeaMonkey 2.0
+Platform=WinXP
+
+[Mozilla/5.0 (Windows; ?; Windows NT 5.2; *; rv:1.9*) Gecko/* SeaMonkey/2.0*]
+Parent=SeaMonkey 2.0
+Platform=Win2003
+
+[Mozilla/5.0 (Windows; ?; Windows NT 6.0; *; rv:1.9*) Gecko/* SeaMonkey/2.0*]
+Parent=SeaMonkey 2.0
+Platform=WinVista
+
+[Mozilla/5.0 (Windows; ?; Windows NT 6.1; *; rv:1.9*) Gecko/* SeaMonkey/2.0*]
+Parent=SeaMonkey 2.0
+Platform=Win7
+
+[Mozilla/5.0 (X11; ?; FreeBSD*; *; rv:1.9*) Gecko/* SeaMonkey/2.0*]
+Parent=SeaMonkey 2.0
+Platform=FreeBSD
+
+[Mozilla/5.0 (X11; ?; Linux*; *; rv:1.9*) Gecko/20060221 SeaMonkey/2.0*]
+Parent=SeaMonkey 2.0
+Platform=Linux
+
+[Mozilla/5.0 (X11; ?; SunOS*; *; rv:1.9*) Gecko/* SeaMonkey/2.0*]
+Parent=SeaMonkey 2.0
+Platform=SunOS
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;; Flock 1.0
+
+[Flock 1.0]
+Parent=DefaultProperties
+Browser=Flock
+Version=1.0
+MajorVer=1
+Frames=true
+IFrames=true
+Tables=true
+Cookies=true
+JavaApplets=true
+JavaScript=true
+CssVersion=2
+supportsCSS=true
+
+[Mozilla/5.0 (Macintosh; U; *Mac OS X*; *; rv:1.*) Gecko/* Firefox/2.* Flock/1.*]
+Parent=Flock 1.0
+Platform=MacOSX
+
+[Mozilla/5.0 (Windows; U; Win 9x 4.90; *; rv:1.*) Gecko/* Firefox/2.* Flock/1.*]
+Parent=Flock 1.0
+Platform=WinME
+
+[Mozilla/5.0 (Windows; U; Windows NT 5.0*; *; rv:1.*) Gecko/* Firefox/2.* Flock/1.*]
+Parent=Flock 1.0
+Platform=Win2000
+
+[Mozilla/5.0 (Windows; U; Windows NT 5.1*; *; rv:1.*) Gecko/* Firefox/2.* Flock/1.*]
+Parent=Flock 1.0
+Platform=WinXP
+
+[Mozilla/5.0 (Windows; U; Windows NT 5.2*; *; rv:1.*) Gecko/* Firefox/2.* Flock/1.*]
+Parent=Flock 1.0
+Platform=Win2003
+
+[Mozilla/5.0 (Windows; U; Windows NT 6.0*; *; rv:1.*) Gecko/* Firefox/2.* Flock/1.*]
+Parent=Flock 1.0
+Platform=WinVista
+
+[Mozilla/5.0 (Windows; U; Windows NT 6.1*; *; rv:1.*) Gecko/* Firefox/2.* Flock/1.*]
+Parent=Flock 1.0
+Platform=Win7
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;; Flock 2.0
+
+[Flock 2.0]
+Parent=DefaultProperties
+Browser=Flock
+Version=2.0
+MajorVer=2
+Frames=true
+IFrames=true
+Tables=true
+Cookies=true
+JavaApplets=true
+JavaScript=true
+CssVersion=2
+supportsCSS=true
+
+[Mozilla/5.0 (Macintosh; U; *Mac OS X*; *; rv:1.*) Gecko/* Firefox/3.* Flock/2.*]
+Parent=Flock 2.0
+Platform=MacOSX
+
+[Mozilla/5.0 (Windows; U; Win 9x 4.90; *; rv:1.*) Gecko/* Firefox/3.* Flock/2.*]
+Parent=Flock 2.0
+Platform=WinME
+
+[Mozilla/5.0 (Windows; U; Windows NT 5.0*; *; rv:1.*) Gecko/* Firefox/3.* Flock/2.*]
+Parent=Flock 2.0
+Platform=Win2000
+
+[Mozilla/5.0 (Windows; U; Windows NT 5.1*; *; rv:1.*) Gecko/* Firefox/3.* Flock/2.*]
+Parent=Flock 2.0
+Platform=WinXP
+
+[Mozilla/5.0 (Windows; U; Windows NT 5.2*; *; rv:1.*) Gecko/* Firefox/3.* Flock/2.*]
+Parent=Flock 2.0
+Platform=Win2003
+
+[Mozilla/5.0 (Windows; U; Windows NT 6.0*; *; rv:1.*) Gecko/* Firefox/3.* Flock/2.*]
+Parent=Flock 2.0
+Platform=WinVista
+
+[Mozilla/5.0 (Windows; U; Windows NT 6.1*; *; rv:1.*) Gecko/* Firefox/3.* Flock/2.*]
+Parent=Flock 2.0
+Platform=Win7
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;; Sleipnir 2.0
+
+[Sleipnir]
+Parent=DefaultProperties
+Browser=Sleipnir
+Version=2.0
+MajorVer=2
+Frames=true
+IFrames=true
+Tables=true
+Cooki
