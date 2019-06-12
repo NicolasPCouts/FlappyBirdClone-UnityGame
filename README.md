@@ -20,6 +20,6 @@ I didn't really know what i was doing back in the day when i was hired to do thi
 didn't know how to use photoshop properly (as you can see in the screenshots below), and the code...the code was a mess, it was all 
 over the place.
 
-![alt text](https://github.com/NicolasPCouts/FlappyBird-Unity2017/blob/master/Screenshot_20180710-001753.png)
-![alt text](https://github.com/NicolasPCouts/FlappyBird-Unity2017/blob/master/Screenshot_20180710-001807.png)
-![alt text](https://github.com/NicolasPCouts/FlappyBird-Unity2017/blob/master/Screenshot_20180710-001911.png)
+![alt text](https://github.com/NicolasPCouts/FlappyBird-Unity2017/blob/master/screenshots/Screenshot_20180710-001753.png)
+![alt text](https://github.com/NicolasPCouts/FlappyBird-Unity2017/blob/master/screenshots/Screenshot_20180710-001807.png)
+![alt text](https://github.com/NicolasPCouts/FlappyBird-Unity2017/blob/master/screenshots/Screenshot_20180710-001911.png)
