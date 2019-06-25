@@ -1,4 +1,4 @@
-# Flappy Bird Clone (Flappy Parrot Flying)
+# Flappy Bird Clone - Unity Mobile Game(Flappy Parrot Flying)
 
 This is a Flappy Bird style mobile game that i have made on unity for a freelance, in fact this was the first game that i've ever made and 
 earned money with it. No...i didn't chose the weird name that this game currently have and YES...i want to change it in the future.
