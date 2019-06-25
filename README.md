@@ -11,7 +11,7 @@ I do intend to update this game eventually, make some better graphics, improve t
 fix the messy code.
 
 And of course, i will keep it open-source and free for commercial use, but i am currently stuck on a bigger project and i don't have
-much time to work on this project (yet)
+much time to work on this project
 
 
 ## About The Game
