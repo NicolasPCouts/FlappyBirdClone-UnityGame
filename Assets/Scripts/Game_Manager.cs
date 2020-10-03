@@ -82,6 +82,7 @@ public class Game_Manager : MonoBehaviour
         {
             IsPaused = true;
             flappyBird.GetComponent<FlappyBirdController>().Pause(true);
+            Handheld.Vibrate();
         }
     }
 
